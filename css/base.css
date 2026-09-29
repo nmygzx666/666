@@ -1,0 +1,111 @@
+/* base.css — 变量、重置、深色模式 */
+
+:root {
+  --brand: #3E5F94;
+  --brand-soft: #EAF0F9;
+  --brand-ink: #2E4A78;
+
+  --bg: #F7F8FA;
+  --card: #FFFFFF;
+  --ink: #1B1F27;
+  --ink-2: #5A6273;
+  --ink-3: #9AA1B0;
+  --line: #E5E8EE;
+
+  --ok: #1F8A56;
+  --ok-soft: #E6F5ED;
+  --bad: #C0392B;
+  --bad-soft: #FBEAE8;
+  --warn: #B7791F;
+  --warn-soft: #FDF3E0;
+
+  --r: 14px;
+  --r-sm: 10px;
+  --pad: 16px;
+  --tap: 44px;               /* 最小点击区域，低于这个手指点不准 */
+
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-t: env(safe-area-inset-top, 0px);
+
+  --font: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+          "Microsoft YaHei", "Segoe UI", Roboto, sans-serif;
+  --font-en: "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #7BA0DC;
+    --brand-soft: #1E2836;
+    --brand-ink: #A8C2EA;
+
+    --bg: #12151A;
+    --card: #1B1F26;
+    --ink: #E8EAEF;
+    --ink-2: #A2AAB8;
+    --ink-3: #6C7484;
+    --line: #2A2F38;
+
+    --ok: #4ECB8B;
+    --ok-soft: #14261D;
+    --bad: #F0776A;
+    --bad-soft: #2A1917;
+    --warn: #E0B368;
+    --warn-soft: #2A2317;
+  }
+}
+
+* { box-sizing: border-box; }
+
+/*
+ * 必须放在所有布局规则前面，并且带 !important。
+ * 原因：.veil 这类元素写了 display:grid，它的优先级高过 [hidden] 自带的
+ * display:none，不加这条的话 hidden 属性根本关不掉遮罩——遮罩会永远糊在屏幕上。
+ */
+[hidden] { display: none !important; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none;
+}
+
+h1, h2, h3, h4 { margin: 0; font-weight: 650; line-height: 1.3; }
+p { margin: 0; }
+a { color: var(--brand); text-decoration: none; }
+
+button {
+  font-family: inherit;
+  font-size: 16px;            /* 小于 16px，iOS 聚焦输入框时会自动放大页面 */
+  color: inherit;
+  border: none;
+  background: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+input, textarea, select {
+  font-family: inherit;
+  font-size: 16px;            /* 同上，别改小 */
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  padding: 10px 12px;
+  width: 100%;
+}
+
+/* 英语内容统一用英文衬线感更弱的无衬线，数字等宽一点好读 */
+.en { font-family: var(--font-en); }
+
+.hide { display: none !important; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

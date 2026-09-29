@@ -1,0 +1,7 @@
+# 这是网页项目，换行统一用 LF，免得在 Windows 上提交时反复出现 CRLF 噪音
+* text=auto eol=lf
+
+# 图片是二进制，别让 git 去碰
+*.png binary
+*.jpg binary
+*.ico binary

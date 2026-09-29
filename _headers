@@ -1,0 +1,22 @@
+# Cloudflare Pages 缓存规则
+#
+# 词库文件改动频繁，缓存短一点，改了刷新就能看到；
+# JS/CSS 改动没那么多，缓存久一点，手机上加载快。
+
+/data/*
+  Cache-Control: public, max-age=300
+
+/css/*
+  Cache-Control: public, max-age=86400
+
+/js/*
+  Cache-Control: public, max-age=86400
+
+/icons/*
+  Cache-Control: public, max-age=604800
+
+/index.html
+  Cache-Control: public, max-age=60
+
+/manifest.webmanifest
+  Cache-Control: public, max-age=3600

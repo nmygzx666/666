@@ -1,0 +1,4515 @@
+{
+ "id": "c07",
+ "n": 7,
+ "title": "进阶词 · 下",
+ "titleEn": "Building Blocks",
+ "source": "ECDICT (MIT)",
+ "clusters": [
+  {
+   "id": "c07-g1",
+   "name": "第 1 组",
+   "words": [
+    {
+     "w": "zoo",
+     "ipa": "/zuː/",
+     "pos": "n.",
+     "zh": "动物园",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ample",
+     "ipa": "/ˈæmpl/",
+     "pos": "adj.",
+     "zh": "大量的，充足的，丰富的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stripe",
+     "ipa": "/straip/",
+     "pos": "n.",
+     "zh": "斑纹，条纹",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "potent",
+     "ipa": "/ˈpəutnt/",
+     "pos": "adj.",
+     "zh": "有力的，有说服力的，有效的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dentist",
+     "ipa": "/ˈdentist/",
+     "pos": "n.",
+     "zh": "牙科医生",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "adverse",
+     "ipa": "/ˈædvəːs/",
+     "pos": "adj.",
+     "zh": "不利的，敌对的，相反的，逆的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "exaggerate",
+     "ipa": "/igˈzædʒəreit/",
+     "pos": "v.",
+     "zh": "夸大，夸张",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "volcano",
+     "ipa": "/vɒlˈkeinəu/",
+     "pos": "n.",
+     "zh": "火山",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "jealous",
+     "ipa": "/ˈdʒeləs/",
+     "pos": "adj.",
+     "zh": "嫉妒的，羡慕的，留心的，戒备的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "arch",
+     "ipa": "/ɑːtʃ/",
+     "pos": "n.",
+     "zh": "拱门，拱形，足弓",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "swamp",
+     "ipa": "/swɒmp/",
+     "pos": "n.",
+     "zh": "沼泽，进退两难的困境",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dash",
+     "ipa": "/dæʃ/",
+     "pos": "n.",
+     "zh": "冲撞，破折号，短跑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bait",
+     "ipa": "/beit/",
+     "pos": "n.",
+     "zh": "饵",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sore",
+     "ipa": "/sɒː/",
+     "pos": "adj.",
+     "zh": "悲伤的，痛的，引起痛苦的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "embargo",
+     "ipa": "/imˈbɑːgəu/",
+     "pos": "n.",
+     "zh": "封港令，禁运",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "erect",
+     "ipa": "/iˈrekt/",
+     "pos": "adj.",
+     "zh": "直立的，竖立的，笔直的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deficiency",
+     "ipa": "/diˈfiʃənsi/",
+     "pos": "n.",
+     "zh": "缺乏，不足",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blur",
+     "ipa": "/bləː/",
+     "pos": "vt.",
+     "zh": "使模糊，弄脏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "glare",
+     "ipa": "/glɛə/",
+     "pos": "n.",
+     "zh": "闪耀光，刺眼",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "handy",
+     "ipa": "/ˈhændi/",
+     "pos": "adj.",
+     "zh": "便利的，敏捷的，容易取得的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "varied",
+     "ipa": "/ˈvɛərid/",
+     "pos": "adj.",
+     "zh": "不同的，杂色的，各式各样的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "differentiate",
+     "ipa": "/.difəˈrenʃieit/",
+     "pos": "v.",
+     "zh": "区别，区分",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "succession",
+     "ipa": "/səkˈseʃən/",
+     "pos": "n.",
+     "zh": "连续，继承权，继位，演替，地层次序",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cement",
+     "ipa": "/siˈment/",
+     "pos": "n.",
+     "zh": "水泥，胶结剂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "underestimate",
+     "ipa": "/.ʌndərˈestimeit/",
+     "pos": "n.",
+     "zh": "低估",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "spoil",
+     "ipa": "/spɒil/",
+     "pos": "n.",
+     "zh": "战利品，赃物，奖品，变质，次品",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bacon",
+     "ipa": "/ˈbeikən/",
+     "pos": "n.",
+     "zh": "熏猪肉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "clause",
+     "ipa": "/klɒːz/",
+     "pos": "n.",
+     "zh": "子句，条款",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "robust",
+     "ipa": "/rəuˈbʌst/",
+     "pos": "adj.",
+     "zh": "健康的，强健的，要用力气的，坚定的，粗野的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bulletin",
+     "ipa": "/ˈbulitin/",
+     "pos": "n.",
+     "zh": "公告，布告，公报",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "accessory",
+     "ipa": "/əkˈsesəri/",
+     "pos": "n.",
+     "zh": "附件，零件，附加物，从犯，同谋",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "resent",
+     "ipa": "/riˈzent/",
+     "pos": "vt.",
+     "zh": "愤恨，憎恶，怨恨",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "terrace",
+     "ipa": "/ˈterəs/",
+     "pos": "n.",
+     "zh": "阶地，梯田，房屋之平顶，阳台，沿岸防地，露台",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "petty",
+     "ipa": "/ˈpeti/",
+     "pos": "adj.",
+     "zh": "琐碎的，小规模的，小气的，委琐的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "temper",
+     "ipa": "/ˈtempə/",
+     "pos": "n.",
+     "zh": "(钢等的)硬度，脾气，心情，中和剂，倾向，回火",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blossom",
+     "ipa": "/ˈblɒsəm/",
+     "pos": "n.",
+     "zh": "花，花开的状态，兴旺期",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "prestigious",
+     "ipa": "/preˈstidʒiəs/",
+     "pos": "adj.",
+     "zh": "享有声望的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "massacre",
+     "ipa": "/ˈmæsəkə/",
+     "pos": "n.",
+     "zh": "大屠杀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "whistle",
+     "ipa": "/ˈhwisl/",
+     "pos": "n.",
+     "zh": "口哨，汽笛，啸啸声，口哨声",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "astronomy",
+     "ipa": "/əˈstrɒnəmi/",
+     "pos": "n.",
+     "zh": "天文学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "insane",
+     "ipa": "/inˈsein/",
+     "pos": "adj.",
+     "zh": "患精神病的，极愚蠢的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "skeleton",
+     "ipa": "/ˈskelətn/",
+     "pos": "n.",
+     "zh": "骨骼，骨瘦如柴的人，梗概，骨干，残骸",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inflict",
+     "ipa": "/inˈflikt/",
+     "pos": "vt.",
+     "zh": "施以，加害，使承受",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ferry",
+     "ipa": "/ˈferi/",
+     "pos": "n.",
+     "zh": "渡船，渡口",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "turmoil",
+     "ipa": "/ˈtəːmɒil/",
+     "pos": "n.",
+     "zh": "骚动，混乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "migrate",
+     "ipa": "/ˈmaigreit/",
+     "pos": "vi.",
+     "zh": "移动，移往，随季节而移居",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "adhere",
+     "ipa": "/ədˈhiə/",
+     "pos": "vi.",
+     "zh": "依附，粘着，坚持，追随，拥护",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "receipt",
+     "ipa": "/riˈsiːt/",
+     "pos": "n.",
+     "zh": "收据，收入，收到",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pillar",
+     "ipa": "/ˈpilə/",
+     "pos": "n.",
+     "zh": "柱子，栋梁，台柱，重要的支持者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "uneasy",
+     "ipa": "/.ʌnˈiːzi/",
+     "pos": "adj.",
+     "zh": "心神不安的，不自在的，不稳定的，不舒服的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g2",
+   "name": "第 2 组",
+   "words": [
+    {
+     "w": "artillery",
+     "ipa": "/ɑːˈtiləri/",
+     "pos": "n.",
+     "zh": "火炮，炮兵，炮术",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pavement",
+     "ipa": "/ˈpeivmənt/",
+     "pos": "n.",
+     "zh": "路面，人行道，铺面路，铺路材料",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "postpone",
+     "ipa": "/pəustˈpəun/",
+     "pos": "vt.",
+     "zh": "延迟，使延期，缓办，搁延",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "contention",
+     "ipa": "/kənˈteinʃən/",
+     "pos": "n.",
+     "zh": "争论，争辩，所持的论点",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ballet",
+     "ipa": "/ˈbælei/",
+     "pos": "n.",
+     "zh": "芭蕾舞",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hobby",
+     "ipa": "/ˈhɒbi/",
+     "pos": "n.",
+     "zh": "嗜好，癖好，爱好",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "reconcile",
+     "ipa": "/ˈrekənsail/",
+     "pos": "vt.",
+     "zh": "使和解，调停，使和谐，使一致，使听从",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "noisy",
+     "ipa": "/ˈnɒizi/",
+     "pos": "adj.",
+     "zh": "嘈杂的，喧闹的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cleaner",
+     "ipa": "/ˈkliːnə/",
+     "pos": "n.",
+     "zh": "清洁工人，清洁剂，干洗商",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "insult",
+     "ipa": "/ˈinsʌlt/",
+     "pos": "n.",
+     "zh": "侮辱，无礼，损害",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fury",
+     "ipa": "/ˈfjuri/",
+     "pos": "n.",
+     "zh": "愤怒，狂暴，狂怒的人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "embark",
+     "ipa": "/imˈbɑːk/",
+     "pos": "vi.",
+     "zh": "乘船，着手，从事，上飞机",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "spontaneous",
+     "ipa": "/spɒnˈteiniəs/",
+     "pos": "adj.",
+     "zh": "自然的，自发的，未经琢磨的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bloom",
+     "ipa": "/bluːm/",
+     "pos": "n.",
+     "zh": "花，开花，青春，钢块",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brochure",
+     "ipa": "/ˈbrəuʃə/",
+     "pos": "n.",
+     "zh": "小册子，小册",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brace",
+     "ipa": "/breis/",
+     "pos": "n.",
+     "zh": "支柱，曲柄，支撑，一对",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perfume",
+     "ipa": "/ˈpəːfjuːm/",
+     "pos": "n.",
+     "zh": "香水，香气，(悦人的)气氛，美名",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flock",
+     "ipa": "/flɒk/",
+     "pos": "n.",
+     "zh": "兽群，鸟群，一群人，大量，棉束",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "volatile",
+     "ipa": "/ˈvɒlətail/",
+     "pos": "adj.",
+     "zh": "挥发性的，可变的，不稳定的，飞行的，轻快的，爆炸性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "oval",
+     "ipa": "/ˈəuvəl/",
+     "pos": "n.",
+     "zh": "椭圆形",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rigorous",
+     "ipa": "/ˈrigərəs/",
+     "pos": "adj.",
+     "zh": "严厉的，严酷的，严格的，苛刻的，严密的，精确的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "definitive",
+     "ipa": "/diˈfinitiv/",
+     "pos": "n.",
+     "zh": "限定词",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "distort",
+     "ipa": "/disˈtɒːt/",
+     "pos": "vt.",
+     "zh": "扭曲，歪曲",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "scoop",
+     "ipa": "/skuːp/",
+     "pos": "n.",
+     "zh": "铲子，勺子，穴，口，独家新闻",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "swift",
+     "ipa": "/swift/",
+     "pos": "n.",
+     "zh": "褐雨燕，快速爬行的小蜥蜴，蝙蝠蛾，大滚筒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intimidate",
+     "ipa": "/inˈtimideit/",
+     "pos": "vt.",
+     "zh": "威胁，恐吓",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "verge",
+     "ipa": "/vəːdʒ/",
+     "pos": "n.",
+     "zh": "边缘，边界，起始点",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "plague",
+     "ipa": "/pleig/",
+     "pos": "n.",
+     "zh": "瘟疫，天罚，麻烦，灾祸",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "batch",
+     "ipa": "/bætʃ/",
+     "pos": "n.",
+     "zh": "一次所烘的面包，一次所制之量，一组，批，成批，分批",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lace",
+     "ipa": "/leis/",
+     "pos": "n.",
+     "zh": "饰带，花边，缎带，鞋带",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deter",
+     "ipa": "/diˈtəː/",
+     "pos": "vt.",
+     "zh": "制止，吓住，威慑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "expire",
+     "ipa": "/ikˈspaiə/",
+     "pos": "vi.",
+     "zh": "期满，呼气，断气",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "catastrophe",
+     "ipa": "/kəˈtæstrəfi/",
+     "pos": "n.",
+     "zh": "大灾难，大祸",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "withhold",
+     "ipa": "/wiðˈhəuld/",
+     "pos": "vt.",
+     "zh": "使停止，扣留，保留，拒给",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ivory",
+     "ipa": "/ˈaivəri/",
+     "pos": "n.",
+     "zh": "象牙，乳白色",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coincide",
+     "ipa": "/.kəuinˈsaid/",
+     "pos": "vi.",
+     "zh": "一致，符合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lucrative",
+     "ipa": "/ˈluːkrətiv/",
+     "pos": "adj.",
+     "zh": "有利益的，获利的，合算的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "resistant",
+     "ipa": "/riˈzistənt/",
+     "pos": "n.",
+     "zh": "抵抗者，反抗者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "escort",
+     "ipa": "/ˈeskɒːt/",
+     "pos": "n.",
+     "zh": "护送者，护卫者，护航舰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dedicated",
+     "ipa": "/ˈdedikeitid/",
+     "pos": "adj.",
+     "zh": "专注的，献身的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stall",
+     "ipa": "/stɒːl/",
+     "pos": "n.",
+     "zh": "厩，停车处，牧师职位，货摊，托辞，拖延",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "oblige",
+     "ipa": "/əˈblaidʒ/",
+     "pos": "vt.",
+     "zh": "强制，施恩惠于，使感激",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inquire",
+     "ipa": "/inˈkwaiə/",
+     "pos": "v.",
+     "zh": "询问，问明，查究",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bust",
+     "ipa": "/bʌst/",
+     "pos": "n.",
+     "zh": "半身像，胸部，失败，殴打",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "prestige",
+     "ipa": "/preˈstiːʒ/",
+     "pos": "n.",
+     "zh": "声望，威望，威信",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "splash",
+     "ipa": "/splæʃ/",
+     "pos": "n.",
+     "zh": "飞溅，污点，一点儿，溅泼声，色斑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stain",
+     "ipa": "/stein/",
+     "pos": "n.",
+     "zh": "污染，污点，着色剂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "imminent",
+     "ipa": "/ˈiminənt/",
+     "pos": "adj.",
+     "zh": "即将来临的，逼近的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "foil",
+     "ipa": "/fɒil/",
+     "pos": "n.",
+     "zh": "箔，烘托，衬托",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "curb",
+     "ipa": "/kəːb/",
+     "pos": "n.",
+     "zh": "抑制，勒马绳，边石",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g3",
+   "name": "第 3 组",
+   "words": [
+    {
+     "w": "implicit",
+     "ipa": "/imˈplisit/",
+     "pos": "adj.",
+     "zh": "暗示的，含蓄的，固有的，绝对的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conquer",
+     "ipa": "/ˈkɒŋkə/",
+     "pos": "vt.",
+     "zh": "克服，征服，战胜",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "crouch",
+     "ipa": "/ˈkrautʃ/",
+     "pos": "n.",
+     "zh": "蹲伏，蜷缩",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "composite",
+     "ipa": "/kəmˈpɒzit/",
+     "pos": "adj.",
+     "zh": "合成的，混合成的，菊科的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fetch",
+     "ipa": "/fetʃ/",
+     "pos": "n.",
+     "zh": "取得，拿，诡计，魂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "forthcoming",
+     "ipa": "/ˈfɒːθˈkʌmɑŋ/",
+     "pos": "adj.",
+     "zh": "即将来临的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deaf",
+     "ipa": "/def/",
+     "pos": "adj.",
+     "zh": "聋的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "complement",
+     "ipa": "/ˈkɒmplimənt/",
+     "pos": "n.",
+     "zh": "补足物，补语，补数",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "weary",
+     "ipa": "/ˈwiəri/",
+     "pos": "adj.",
+     "zh": "疲倦的，萎靡的，厌倦的，厌烦的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "allocate",
+     "ipa": "/ˈæləukeit/",
+     "pos": "vt.",
+     "zh": "分派，分配",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "scarce",
+     "ipa": "/skɑːs/",
+     "pos": "adj.",
+     "zh": "难得的，稀罕的，缺乏的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "siege",
+     "ipa": "/siːdʒ/",
+     "pos": "n.",
+     "zh": "包围，围攻，再三的努力",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "definite",
+     "ipa": "/ˈdefinit/",
+     "pos": "adj.",
+     "zh": "明确的，一定的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "displace",
+     "ipa": "/disˈpleis/",
+     "pos": "vt.",
+     "zh": "移置，替换，转移",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "territorial",
+     "ipa": "/.teriˈtɒːriəl/",
+     "pos": "adj.",
+     "zh": "领土的，土地的，地方的，区域性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "catalogue",
+     "ipa": "/ˈkætəlɒg/",
+     "pos": "n.",
+     "zh": "目录，大学情况一览",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "paradise",
+     "ipa": "/ˈpærədais/",
+     "pos": "n.",
+     "zh": "天堂，乐园，伊甸园",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hum",
+     "ipa": "/hʌm/",
+     "pos": "n.",
+     "zh": "嗡嗡声，哼声，杂声",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "restrain",
+     "ipa": "/riˈstrein/",
+     "pos": "vt.",
+     "zh": "抑制，阻止，束缚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "qualification",
+     "ipa": "/.kwɒlifiˈkeiʃən/",
+     "pos": "n.",
+     "zh": "资格，条件，限制",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ammunition",
+     "ipa": "/.æmjuˈniʃən/",
+     "pos": "n.",
+     "zh": "军火，弹药",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pierce",
+     "ipa": "/piəs/",
+     "pos": "vt.",
+     "zh": "刺穿，穿透，打眼于，洞悉，(声音)响彻，(亮光)照进，深深地打动",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "indulge",
+     "ipa": "/inˈdʌldʒ/",
+     "pos": "vt.",
+     "zh": "纵情于，使高兴，放任，迁就",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lodge",
+     "ipa": "/lɒdʒ/",
+     "pos": "n.",
+     "zh": "小屋，门房，支部，旅舍，分会",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "serial",
+     "ipa": "/ˈsiəriəl/",
+     "pos": "n.",
+     "zh": "分期连载作品，连载小说",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dwarf",
+     "ipa": "/dwɒːf/",
+     "pos": "n.",
+     "zh": "矮子，侏儒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "infinite",
+     "ipa": "/ˈinfinit/",
+     "pos": "n.",
+     "zh": "无限，神",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gossip",
+     "ipa": "/ˈgɒsip/",
+     "pos": "n.",
+     "zh": "闲聊，随笔，流言，爱讲闲话的人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "muscular",
+     "ipa": "/ˈmʌskjulə/",
+     "pos": "adj.",
+     "zh": "强壮的，肌肉发达的，有力的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "commute",
+     "ipa": "/kəˈmjuːt/",
+     "pos": "vt.",
+     "zh": "交换，折偿，减轻",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bilateral",
+     "ipa": "/baiˈlætərəl/",
+     "pos": "adj.",
+     "zh": "有两边的，双边的，双方的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sincere",
+     "ipa": "/sinˈsiə/",
+     "pos": "adj.",
+     "zh": "诚实的，正直的，真挚的，纯净的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intermediate",
+     "ipa": "/.intəˈmiːdiət/",
+     "pos": "n.",
+     "zh": "中间物，调停者，中级",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chant",
+     "ipa": "/tʃænt. tʃɑːnt/",
+     "pos": "n.",
+     "zh": "圣歌，赞美诗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "submarine",
+     "ipa": "/ˈsʌbməriːn/",
+     "pos": "n.",
+     "zh": "潜水艇，海底生物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ditch",
+     "ipa": "/ditʃ/",
+     "pos": "n.",
+     "zh": "沟渠",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cushion",
+     "ipa": "/ˈkuʃən/",
+     "pos": "n.",
+     "zh": "垫子，橡皮软垫",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dispose",
+     "ipa": "/disˈpəuz/",
+     "pos": "vt.",
+     "zh": "处理，排列，布置",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "evacuate",
+     "ipa": "/iˈvækjueit/",
+     "pos": "v.",
+     "zh": "疏散，撤出，排泄",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "affiliate",
+     "ipa": "/əˈfilieit/",
+     "pos": "vt.",
+     "zh": "使紧密联系，使附属，接纳，收养",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dodge",
+     "ipa": "/dɒdʒ/",
+     "pos": "v.",
+     "zh": "避开，躲避",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cater",
+     "ipa": "/ˈkeitə/",
+     "pos": "v.",
+     "zh": "提供饮食及服务，投合，迎合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blonde",
+     "ipa": "/blɔnd/",
+     "pos": "adj.",
+     "zh": "(头发)亚麻色的，淡色的，白肤金发碧眼的，白里透红的，白皙的，淡黄色的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conform",
+     "ipa": "/kənˈfɒːm/",
+     "pos": "vt.",
+     "zh": "使一致，使遵守，使符合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "worthwhile",
+     "ipa": "/ˈwəːθˈhwail/",
+     "pos": "adj.",
+     "zh": "值得花时间的，值得做的，有真实价值的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bud",
+     "ipa": "/bʌd/",
+     "pos": "n.",
+     "zh": "芽，花蕾",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "expel",
+     "ipa": "/ikˈspel/",
+     "pos": "vt.",
+     "zh": "驱逐，逐出，排出，开除",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "scarcely",
+     "ipa": "/ˈskɑːsli/",
+     "pos": "adv.",
+     "zh": "简直不，一定不，仅仅",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "kidnap",
+     "ipa": "/ˈkidnæp/",
+     "pos": "vt.",
+     "zh": "绑架，诱拐，拐骗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "apt",
+     "ipa": "/æpt/",
+     "pos": "adj.",
+     "zh": "有…倾向的，易于的，恰当的，聪明的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g4",
+   "name": "第 4 组",
+   "words": [
+    {
+     "w": "staple",
+     "ipa": "/ˈsteipl/",
+     "pos": "n.",
+     "zh": "主要产物，常用品，主要要素，原料，订书钉，钩环",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "confidential",
+     "ipa": "/.kɒnfiˈdenʃəl/",
+     "pos": "adj.",
+     "zh": "机密的，获他人信赖的，易于信任他人的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "compatible",
+     "ipa": "/kəmˈpætəbl/",
+     "pos": "adj.",
+     "zh": "能共处的，可并立的，适合的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "relentless",
+     "ipa": "/riˈlentlis/",
+     "pos": "adj.",
+     "zh": "无情的，冷酷的，残酷的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fixture",
+     "ipa": "/ˈfikstʃə/",
+     "pos": "n.",
+     "zh": "固定(状态)，固定物，设备",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "crumble",
+     "ipa": "/ˈkrʌmbl/",
+     "pos": "v.",
+     "zh": "(使)粉碎，(使)成为碎屑，瓦解，崩溃，败落",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cynical",
+     "ipa": "/ˈsinikəl/",
+     "pos": "adj.",
+     "zh": "愤世嫉俗的，讽刺的，冷嘲的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blunt",
+     "ipa": "/blʌnt/",
+     "pos": "adj.",
+     "zh": "钝的，坦率的，麻痹的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "emperor",
+     "ipa": "/ˈempərə/",
+     "pos": "n.",
+     "zh": "皇帝，君主",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "triple",
+     "ipa": "/ˈtripl/",
+     "pos": "n.",
+     "zh": "三倍数，三个一组",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enzyme",
+     "ipa": "/ˈenzaim/",
+     "pos": "n.",
+     "zh": "酶",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ambiguous",
+     "ipa": "/æmˈbigjuəs/",
+     "pos": "adj.",
+     "zh": "不明确的，模棱两可的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cylinder",
+     "ipa": "/ˈsilində/",
+     "pos": "n.",
+     "zh": "圆筒，圆筒状物，汽缸，柱面",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pave",
+     "ipa": "/peiv/",
+     "pos": "vt.",
+     "zh": "铺设，安排，铺满，为…铺路",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "heap",
+     "ipa": "/hiːp/",
+     "pos": "n.",
+     "zh": "堆，许多，累积",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "precaution",
+     "ipa": "/priˈkɒːʃən/",
+     "pos": "n.",
+     "zh": "预防，留心，警戒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "invariably",
+     "ipa": "/inˈvɛəriəbli/",
+     "pos": "adv.",
+     "zh": "不变化地，恒定地，始终如一地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "trousers",
+     "ipa": "/ˈtrauzəz/",
+     "pos": "pl.",
+     "zh": "裤子，长裤",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "energetic",
+     "ipa": "/.enəˈdʒetik/",
+     "pos": "adj.",
+     "zh": "精力充沛的，积极的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "embarrass",
+     "ipa": "/imˈbærəs/",
+     "pos": "vt.",
+     "zh": "使困窘，使局促不安，阻碍",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "arouse",
+     "ipa": "/əˈrauz/",
+     "pos": "vt.",
+     "zh": "唤醒，鼓励，引起",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "shrub",
+     "ipa": "/ʃrʌb/",
+     "pos": "n.",
+     "zh": "矮树，灌木，果汁甜酒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "consolidate",
+     "ipa": "/kənˈsɒlideit/",
+     "pos": "vt.",
+     "zh": "巩固，使联合，统一",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "feat",
+     "ipa": "/fiːt/",
+     "pos": "n.",
+     "zh": "壮举，功绩，技艺表演",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "groan",
+     "ipa": "/grəun/",
+     "pos": "n.",
+     "zh": "呻吟，叹息",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "torch",
+     "ipa": "/tɒːtʃ/",
+     "pos": "n.",
+     "zh": "火把，启发之物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "terminate",
+     "ipa": "/ˈtəːmineit/",
+     "pos": "adj.",
+     "zh": "有结尾的，(可)结束的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wreck",
+     "ipa": "/rek/",
+     "pos": "n.",
+     "zh": "失事，残骸，破坏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "allergy",
+     "ipa": "/ˈælədʒi/",
+     "pos": "n.",
+     "zh": "变应性，反感，厌恶",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "batter",
+     "ipa": "/ˈbætə/",
+     "pos": "v.",
+     "zh": "连续猛打（尤其指妇女），猛击",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dart",
+     "ipa": "/dɑːt/",
+     "pos": "n.",
+     "zh": "飞镖，投射",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wax",
+     "ipa": "/wæks/",
+     "pos": "n.",
+     "zh": "蜡，蜡状物，一阵发怒，增加，(月亮)渐盈",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wholesale",
+     "ipa": "/ˈhəulseil/",
+     "pos": "n.",
+     "zh": "批发",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "voucher",
+     "ipa": "/ˈvautʃə/",
+     "pos": "n.",
+     "zh": "证人，保证人，证明者，凭证，凭单",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chapel",
+     "ipa": "/ˈtʃæpəl/",
+     "pos": "n.",
+     "zh": "小教堂，礼拜式",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "glue",
+     "ipa": "/gluː/",
+     "pos": "n.",
+     "zh": "胶，粘性物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chord",
+     "ipa": "/kɒːd/",
+     "pos": "n.",
+     "zh": "弦，和音",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "veto",
+     "ipa": "/ˈviːtəu/",
+     "pos": "n.",
+     "zh": "否决权",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bleak",
+     "ipa": "/bliːk/",
+     "pos": "adj.",
+     "zh": "萧瑟的，荒凉的，阴冷的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "setback",
+     "ipa": "/ˈsetbæk/",
+     "pos": "n.",
+     "zh": "挫折，退步，逆流",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "restless",
+     "ipa": "/ˈrestlis/",
+     "pos": "adj.",
+     "zh": "不安静的，慌张的，休息不充分的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cheerful",
+     "ipa": "/ˈtʃiəful/",
+     "pos": "adj.",
+     "zh": "快活的，高兴的，兴高采烈的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hurl",
+     "ipa": "/həːl/",
+     "pos": "n.",
+     "zh": "用力的投掷",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "giggle",
+     "ipa": "/ˈgigl/",
+     "pos": "v.",
+     "zh": "吃吃地笑，咯咯地笑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tariff",
+     "ipa": "/ˈtærif/",
+     "pos": "n.",
+     "zh": "关税，关税表，价格表，收费表",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tick",
+     "ipa": "/tik/",
+     "pos": "n.",
+     "zh": "滴答声，一瞬间，壁虱，褥套，信用，赊欠",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dine",
+     "ipa": "/dain/",
+     "pos": "vi.",
+     "zh": "用正餐，进餐",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dispatch",
+     "ipa": "/disˈpætʃ/",
+     "pos": "vt.",
+     "zh": "派遣",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "disguise",
+     "ipa": "/disˈgaiz/",
+     "pos": "n.",
+     "zh": "假面目，假装",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hatch",
+     "ipa": "/hætʃ/",
+     "pos": "n.",
+     "zh": "孵化，舱口",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g5",
+   "name": "第 5 组",
+   "words": [
+    {
+     "w": "mediate",
+     "ipa": "/ˈmiːdieit/",
+     "pos": "adj.",
+     "zh": "居间的，间接的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "amend",
+     "ipa": "/əˈmend/",
+     "pos": "vt.",
+     "zh": "修改，改善，改良",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cathedral",
+     "ipa": "/kəˈθiːdrəl/",
+     "pos": "n.",
+     "zh": "大教堂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "alternate",
+     "ipa": "/ˈɒːltənət/",
+     "pos": "adj.",
+     "zh": "交替的，轮流的，间隔的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bully",
+     "ipa": "/ˈbuli/",
+     "pos": "n.",
+     "zh": "欺凌弱小者，土霸",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "contaminate",
+     "ipa": "/kənˈtæmineit/",
+     "pos": "vt.",
+     "zh": "弄污，弄脏，污染，毒害",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "plight",
+     "ipa": "/plait/",
+     "pos": "n.",
+     "zh": "困境，窘境",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "default",
+     "ipa": "/diˈfɒːlt/",
+     "pos": "n.",
+     "zh": "违约，不履行责任，缺席，默认值",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sickness",
+     "ipa": "/ˈsiknis/",
+     "pos": "n.",
+     "zh": "疾病，不健康，呕吐",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "disperse",
+     "ipa": "/disˈpəːs/",
+     "pos": "vt.",
+     "zh": "分散，传播，散开",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sober",
+     "ipa": "/ˈsəubə/",
+     "pos": "adj.",
+     "zh": "未醉的，稳重的，节制的，严肃的，不夸大的，合理的，朴素的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "frantic",
+     "ipa": "/ˈfræntik/",
+     "pos": "adj.",
+     "zh": "狂乱的，疯狂的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "starve",
+     "ipa": "/stɑːv/",
+     "pos": "v.",
+     "zh": "(使)饿死，(使)挨饿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fertile",
+     "ipa": "/ˈfəːtail/",
+     "pos": "adj.",
+     "zh": "可繁殖的，肥沃的，生产多的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "disgust",
+     "ipa": "/disˈgʌst/",
+     "pos": "n.",
+     "zh": "厌恶，嫌恶",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "upright",
+     "ipa": "/ˈʌprait/",
+     "pos": "adj.",
+     "zh": "正直的，诚实的，公正的，垂直的，竖式的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "abolish",
+     "ipa": "/əˈbɒliʃ/",
+     "pos": "vt.",
+     "zh": "废止，革除，消灭",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fort",
+     "ipa": "/fɒːt/",
+     "pos": "n.",
+     "zh": "堡垒，要塞，易货站",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "liner",
+     "ipa": "/ˈlainə/",
+     "pos": "n.",
+     "zh": "班机，划线者，定期船，衬里",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inferior",
+     "ipa": "/inˈfiəriə/",
+     "pos": "adj.",
+     "zh": "次等的，较差的，下方的，下级的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "subsidiary",
+     "ipa": "/səbˈsidiəri/",
+     "pos": "n.",
+     "zh": "子公司，附件，辅助者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "graze",
+     "ipa": "/greiz/",
+     "pos": "n.",
+     "zh": "吃草，放牧，擦伤，轻擦",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mock",
+     "ipa": "/mɒk/",
+     "pos": "n.",
+     "zh": "嘲笑，戏弄，模仿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "escalate",
+     "ipa": "/ˈeskəleit/",
+     "pos": "vi.",
+     "zh": "逐步扩大，逐步升高，逐步增强",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stubborn",
+     "ipa": "/ˈstʌbən/",
+     "pos": "adj.",
+     "zh": "顽固的，不听话的，执拗的，棘手的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bathe",
+     "ipa": "/beið/",
+     "pos": "vt.",
+     "zh": "沐浴，用水洗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "avert",
+     "ipa": "/əˈvəːt/",
+     "pos": "vt.",
+     "zh": "转开，避免，防止",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conjunction",
+     "ipa": "/kənˈdʒʌŋkʃən/",
+     "pos": "n.",
+     "zh": "连接词，联合，结合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "detain",
+     "ipa": "/diˈtein/",
+     "pos": "vt.",
+     "zh": "扣留，扣押，耽搁",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "novice",
+     "ipa": "/ˈnɒvis/",
+     "pos": "n.",
+     "zh": "新手，初学者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "compliment",
+     "ipa": "/ˈkɒmplimənt/",
+     "pos": "n.",
+     "zh": "称赞，恭维，敬意",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "agony",
+     "ipa": "/ˈægəni/",
+     "pos": "n.",
+     "zh": "极大的痛苦，挣扎",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deteriorate",
+     "ipa": "/diˈtiəriəreit/",
+     "pos": "v.",
+     "zh": "(使)恶化",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "arrogant",
+     "ipa": "/ˈærəɡənt/",
+     "pos": "adj.",
+     "zh": "自大的，傲慢的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dubious",
+     "ipa": "/ˈdjuːbiəs/",
+     "pos": "adj.",
+     "zh": "可疑的，不确定的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bypass",
+     "ipa": "/ˈbaipɑːs/",
+     "pos": "n.",
+     "zh": "旁路",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "foresee",
+     "ipa": "/fɒːˈsiː/",
+     "pos": "vt.",
+     "zh": "预见，预知",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bruise",
+     "ipa": "/bruːz/",
+     "pos": "n.",
+     "zh": "青肿，挫伤，擦伤",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "reign",
+     "ipa": "/rein/",
+     "pos": "v.",
+     "zh": "为王，为君；当政；统治",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brink",
+     "ipa": "/briŋk/",
+     "pos": "n.",
+     "zh": "边缘，陡岸",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "symphony",
+     "ipa": "/ˈsimfəni/",
+     "pos": "n.",
+     "zh": "交响乐，交响曲",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "allowance",
+     "ipa": "/əˈlauəns/",
+     "pos": "n.",
+     "zh": "津贴，零用钱，限额，折扣，允许",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "roast",
+     "ipa": "/rəust/",
+     "pos": "n.",
+     "zh": "烤肉，烘烤，嘲笑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "masterpiece",
+     "ipa": "/ˈmɑːstəpiːs/",
+     "pos": "n.",
+     "zh": "杰作，名著",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ordeal",
+     "ipa": "/ɒːˈdiːl/",
+     "pos": "n.",
+     "zh": "严酷考验，痛苦经历，煎熬",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "adore",
+     "ipa": "/əˈdɒː/",
+     "pos": "vt.",
+     "zh": "崇拜，爱慕，喜爱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "splendid",
+     "ipa": "/ˈspendid/",
+     "pos": "adj.",
+     "zh": "光亮的，了不起的，灿烂的，壮丽的，显著的，杰出的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "foul",
+     "ipa": "/faul/",
+     "pos": "adj.",
+     "zh": "污秽的，邪恶的，恶臭的，肮脏的，恶劣的，淤塞的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tentative",
+     "ipa": "/ˈtentətiv/",
+     "pos": "n.",
+     "zh": "试验",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "parcel",
+     "ipa": "/ˈpɑːsl/",
+     "pos": "n.",
+     "zh": "包裹，部分，片",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g6",
+   "name": "第 6 组",
+   "words": [
+    {
+     "w": "wicked",
+     "ipa": "/ˈwikid/",
+     "pos": "adj.",
+     "zh": "坏的，邪恶的，缺德的，刻毒的，恶劣的，淘气的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "uprising",
+     "ipa": "/ˈʌpraiziŋ/",
+     "pos": "n.",
+     "zh": "起义，升起",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pinch",
+     "ipa": "/pintʃ/",
+     "pos": "n.",
+     "zh": "捏，拧，撮，少量，收缩，挤压，夹痛，苦恼，逮捕，指控，匮乏，紧急关头",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nationality",
+     "ipa": "/.næʃəˈnæləti/",
+     "pos": "n.",
+     "zh": "国籍，国家，民族性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "offshore",
+     "ipa": "/ɒːfˈʃɒː/",
+     "pos": "adj.",
+     "zh": "海面的，吹向海面的，近海的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "asylum",
+     "ipa": "/əˈsailəm/",
+     "pos": "n.",
+     "zh": "庇护，收容所",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ceramic",
+     "ipa": "/siˈræmik/",
+     "pos": "adj.",
+     "zh": "陶瓷的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "convene",
+     "ipa": "/kənˈviːn/",
+     "pos": "vt.",
+     "zh": "集合，召集，召唤",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "aspire",
+     "ipa": "/əˈspaiə/",
+     "pos": "vi.",
+     "zh": "渴望，立志于",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "breach",
+     "ipa": "/briːtʃ/",
+     "pos": "n.",
+     "zh": "裂口，违背，破坏，违反，突破，破裂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tablet",
+     "ipa": "/ˈtæblit/",
+     "pos": "n.",
+     "zh": "平板，门牌，笔记簿，碑，匾，药片",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intrigue",
+     "ipa": "/inˈtriːg/",
+     "pos": "n.",
+     "zh": "阴谋，复杂的事",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coarse",
+     "ipa": "/kɒːs/",
+     "pos": "adj.",
+     "zh": "粗糙的，下等的，粗俗的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wardrobe",
+     "ipa": "/ˈwɒːdrəub/",
+     "pos": "n.",
+     "zh": "衣橱，衣室，全部衣服",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "aviation",
+     "ipa": "/.eiviˈeiʃən/",
+     "pos": "n.",
+     "zh": "航空，航空学，飞行术",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hawk",
+     "ipa": "/hɒːk/",
+     "pos": "n.",
+     "zh": "鹰，掠夺者，鹰派成员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "imaginative",
+     "ipa": "/iˈmædʒinətiv/",
+     "pos": "adj.",
+     "zh": "想像的，虚构的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pathetic",
+     "ipa": "/pəˈθetik/",
+     "pos": "adj.",
+     "zh": "悲哀的，可怜的，感伤的，差劲的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "decay",
+     "ipa": "/diˈkei/",
+     "pos": "n.",
+     "zh": "衰退，腐败",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conserve",
+     "ipa": "/kənˈsəːv/",
+     "pos": "n.",
+     "zh": "蜜饯，果酱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bowling",
+     "ipa": "/ˈbəuliŋ/",
+     "pos": "n.",
+     "zh": "保龄球戏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "durable",
+     "ipa": "/ˈdjurəbl/",
+     "pos": "adj.",
+     "zh": "持久的，耐用的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "outset",
+     "ipa": "/ˈautset/",
+     "pos": "n.",
+     "zh": "着手，开头，最初",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "martial",
+     "ipa": "/ˈmɑːʃəl/",
+     "pos": "adj.",
+     "zh": "战争的，军事的，尚武的，威武的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "heighten",
+     "ipa": "/ˈhaitn/",
+     "pos": "vt.",
+     "zh": "增高，提高，加强",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sociology",
+     "ipa": "/.səusiˈɒlədʒi/",
+     "pos": "n.",
+     "zh": "社会学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "unify",
+     "ipa": "/ˈjuːnifai/",
+     "pos": "v.",
+     "zh": "统一，使成一体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "spiral",
+     "ipa": "/ˈspairəl/",
+     "pos": "n.",
+     "zh": "螺旋形之物，螺线",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sovereign",
+     "ipa": "/ˈsɒvrin/",
+     "pos": "n.",
+     "zh": "元首，独立国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "incur",
+     "ipa": "/inˈkəː/",
+     "pos": "vt.",
+     "zh": "招致，蒙受，遭遇",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blaze",
+     "ipa": "/bleiz/",
+     "pos": "n.",
+     "zh": "火焰，烈火，光辉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "slate",
+     "ipa": "/sleit/",
+     "pos": "n.",
+     "zh": "板岩，页岩，提名名单，人选，记录，石板",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "thunder",
+     "ipa": "/ˈθʌndə/",
+     "pos": "n.",
+     "zh": "雷，雷声",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "litter",
+     "ipa": "/ˈlitə/",
+     "pos": "n.",
+     "zh": "垃圾，杂乱，轿，担架",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "exquisite",
+     "ipa": "/ˈekskwizit/",
+     "pos": "adj.",
+     "zh": "精致的，细腻的，敏锐的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "petroleum",
+     "ipa": "/pəˈtrəuliəm/",
+     "pos": "n.",
+     "zh": "石油",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flap",
+     "ipa": "/flæp/",
+     "pos": "n.",
+     "zh": "飘，摆动，拍打，拍打声，片状垂悬物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drastic",
+     "ipa": "/ˈdræstik/",
+     "pos": "adj.",
+     "zh": "激烈的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "farewell",
+     "ipa": "/ˈfɛəˈwel/",
+     "pos": "n.",
+     "zh": "辞别，再见，再会",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "alienate",
+     "ipa": "/ˈeiljəneit/",
+     "pos": "vt.",
+     "zh": "使疏远，离间，转让",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sting",
+     "ipa": "/stiŋ/",
+     "pos": "n.",
+     "zh": "叮，刺痛，刺激，讽刺",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "idle",
+     "ipa": "/ˈaidl/",
+     "pos": "adj.",
+     "zh": "懒惰的，闲散的，停顿的，空闲的，无用的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "glamour",
+     "ipa": "/ˈglæmə/",
+     "pos": "n.",
+     "zh": "魅力，迷人的美，魔法",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fragrance",
+     "ipa": "/ˈfreigrəns/",
+     "pos": "n.",
+     "zh": "芬芳，香味",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "buzz",
+     "ipa": "/bʌz/",
+     "pos": "n.",
+     "zh": "嗡嗡声，流言",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "famine",
+     "ipa": "/ˈfæmin/",
+     "pos": "n.",
+     "zh": "饥荒，缺乏，饥饿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cassette",
+     "ipa": "/kæˈset/",
+     "pos": "n.",
+     "zh": "盒式磁带，珠宝箱，暗盒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "directory",
+     "ipa": "/diˈrektəri/",
+     "pos": "n.",
+     "zh": "目录，工商名录，指南",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "clamp",
+     "ipa": "/klæmp/",
+     "pos": "n.",
+     "zh": "夹钳",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "superficial",
+     "ipa": "/.sjuːpəˈfiʃəl/",
+     "pos": "n.",
+     "zh": "表面，外表",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g7",
+   "name": "第 7 组",
+   "words": [
+    {
+     "w": "rig",
+     "ipa": "/rig/",
+     "pos": "n.",
+     "zh": "装备，帆装",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "liable",
+     "ipa": "/ˈlaiəbl/",
+     "pos": "adj.",
+     "zh": "有义务的，应负责的，有…倾向的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bloc",
+     "ipa": "/blɒk/",
+     "pos": "n.",
+     "zh": "集团",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "relay",
+     "ipa": "/ˈriːlei/",
+     "pos": "n.",
+     "zh": "驿马，替班，中继，接力",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "slaughter",
+     "ipa": "/ˈslɒːtə/",
+     "pos": "n.",
+     "zh": "残杀，屠杀，杀戮",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "heroine",
+     "ipa": "/ˈherəuin/",
+     "pos": "n.",
+     "zh": "巾帼英雄，烈妇，女主角",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "grammar",
+     "ipa": "/ˈgræmə/",
+     "pos": "n.",
+     "zh": "语法学，入门书",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "howl",
+     "ipa": "/haul/",
+     "pos": "n.",
+     "zh": "嗥叫，吠声，号叫",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "irregular",
+     "ipa": "/iˈregjulə/",
+     "pos": "n.",
+     "zh": "不规则物，不合规格之物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "decree",
+     "ipa": "/diˈkriː/",
+     "pos": "n.",
+     "zh": "法令，判决，天意",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cannon",
+     "ipa": "/ˈkænən/",
+     "pos": "n.",
+     "zh": "大炮，加农炮",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "knit",
+     "ipa": "/nit/",
+     "pos": "v.",
+     "zh": "编织，结合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lag",
+     "ipa": "/læg/",
+     "pos": "n.",
+     "zh": "落后，囚犯，迟延，桶板，防护套",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flank",
+     "ipa": "/flæŋk/",
+     "pos": "n.",
+     "zh": "侧面，侧腹，胁，腰窝肉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lash",
+     "ipa": "/læʃ/",
+     "pos": "n.",
+     "zh": "鞭子，鞭打，睫毛，责骂，讽刺",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "outskirts",
+     "ipa": "/ˈautskəːts/",
+     "pos": "n.",
+     "zh": "近郊，市郊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enclose",
+     "ipa": "/inˈkləuz/",
+     "pos": "vt.",
+     "zh": "围绕，圈起，放入封套，附上",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "irritate",
+     "ipa": "/ˈiriteit/",
+     "pos": "vt.",
+     "zh": "激怒，使发怒，使兴奋，使发炎",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flare",
+     "ipa": "/ˈflɛə/",
+     "pos": "n.",
+     "zh": "闪光，闪耀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cape",
+     "ipa": "/keip/",
+     "pos": "n.",
+     "zh": "岬，海角，披肩，斗蓬",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "envy",
+     "ipa": "/ˈenvi/",
+     "pos": "n.",
+     "zh": "羡慕，嫉妒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "whereby",
+     "ipa": "/(h)weəˈbai/",
+     "pos": "adv.",
+     "zh": "靠什么，如何，为何，靠那个，因此，由此",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "grate",
+     "ipa": "/^reit/",
+     "pos": "n.",
+     "zh": "炉格，炉篦，炉栅，火炉，壁炉，格栅",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "boycott",
+     "ipa": "/ˈbɒikɒt/",
+     "pos": "n.",
+     "zh": "联合抵制",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "referee",
+     "ipa": "/.refəˈriː/",
+     "pos": "n.",
+     "zh": "仲裁人，调解人，裁判员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "eccentric",
+     "ipa": "/ikˈsentrik/",
+     "pos": "n.",
+     "zh": "怪人，偏心圆",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "overthrow",
+     "ipa": "/.əuvəˈθrəu/",
+     "pos": "n.",
+     "zh": "推翻，瓦解，倾覆",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "freight",
+     "ipa": "/ˈfreit/",
+     "pos": "n.",
+     "zh": "船货，运费，货运",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mar",
+     "ipa": "/mɑː/",
+     "pos": "vt.",
+     "zh": "损毁，损伤，糟蹋",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sprint",
+     "ipa": "/sprint/",
+     "pos": "n.",
+     "zh": "短距离赛跑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "handicap",
+     "ipa": "/ˈhændikæp/",
+     "pos": "n.",
+     "zh": "障碍，困难，不利条件",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "amaze",
+     "ipa": "/əˈmeiz/",
+     "pos": "vt.",
+     "zh": "使吃惊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "minus",
+     "ipa": "/ˈmainəs/",
+     "pos": "n.",
+     "zh": "负号，不足",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "thriller",
+     "ipa": "/ˈθrilə/",
+     "pos": "n.",
+     "zh": "使人激动的东西，使人毛骨悚然的东西，使人毛骨悚然的小说",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "smuggle",
+     "ipa": "/ˈsmʌgl/",
+     "pos": "vt.",
+     "zh": "偷运，走私，私运",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "visualize",
+     "ipa": "/ˈviʒuəlaiz/",
+     "pos": "vt.",
+     "zh": "使看得见，使具体化，想象，设想",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mint",
+     "ipa": "/mint/",
+     "pos": "n.",
+     "zh": "薄荷，造币厂，巨额",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "incidentally",
+     "ipa": "/.insiˈdentəli/",
+     "pos": "adv.",
+     "zh": "伴随地，偶然，顺便",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "commemorate",
+     "ipa": "/kəˈmeməreit/",
+     "pos": "vt.",
+     "zh": "纪念",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "simultaneous",
+     "ipa": "/.siməlˈteinjəs/",
+     "pos": "adj.",
+     "zh": "同时的，同时发生的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "abrupt",
+     "ipa": "/əˈbrʌpt/",
+     "pos": "adj.",
+     "zh": "突然的，唐突的，陡峭的，不连贯的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "shred",
+     "ipa": "/ʃred/",
+     "pos": "n.",
+     "zh": "碎布条，细片，少量",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "refreshing",
+     "ipa": "/riˈfreʃiŋ/",
+     "pos": "adj.",
+     "zh": "使清爽的，有精神的，爽快的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "versatile",
+     "ipa": "/ˈvəːsətail/",
+     "pos": "adj.",
+     "zh": "多才多艺的，万用的，万向的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dizzy",
+     "ipa": "/ˈdizi/",
+     "pos": "adj.",
+     "zh": "晕眩的，眼花缭乱的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "timetable",
+     "ipa": "/ˈtaimteibl/",
+     "pos": "n.",
+     "zh": "时间表",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "unanimous",
+     "ipa": "/juːˈnæniməs/",
+     "pos": "adj.",
+     "zh": "意见一致的，无异议的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "outright",
+     "ipa": "/ˈautrait/",
+     "pos": "adj.",
+     "zh": "率直的，完全的，总共的，直率的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perennial",
+     "ipa": "/pəˈreniəl/",
+     "pos": "adj.",
+     "zh": "常年的，长期的，反复的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "overlap",
+     "ipa": "/.əuvəˈlæp/",
+     "pos": "n.",
+     "zh": "重叠，重复，部分的同时发生",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g8",
+   "name": "第 8 组",
+   "words": [
+    {
+     "w": "bankrupt",
+     "ipa": "/ˈbæŋkrʌpt/",
+     "pos": "n.",
+     "zh": "破产者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "overtake",
+     "ipa": "/.əuvəˈteik/",
+     "pos": "vt.",
+     "zh": "赶上，突然降临于，压倒，代替",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "salvage",
+     "ipa": "/ˈsælvidʒ/",
+     "pos": "n.",
+     "zh": "海上救助，抢救，打捞，抢救出来的财物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "shepherd",
+     "ipa": "/ˈʃepəd/",
+     "pos": "n.",
+     "zh": "牧羊人，牧羊犬，牧师，保护者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "token",
+     "ipa": "/ˈtəukən/",
+     "pos": "n.",
+     "zh": "表征，记号，代币",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "trumpet",
+     "ipa": "/ˈtrʌmpit/",
+     "pos": "n.",
+     "zh": "喇叭，小号，喇叭声",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "revolt",
+     "ipa": "/riˈvəult/",
+     "pos": "n.",
+     "zh": "叛乱，反抗，反感",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "freak",
+     "ipa": "/friːk/",
+     "pos": "n.",
+     "zh": "畸形人，畸形物，不正常的事物，反复无常",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "salute",
+     "ipa": "/səˈluːt/",
+     "pos": "vi.",
+     "zh": "行礼，致意，问候，放礼炮",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "oriental",
+     "ipa": "/.ɒːriˈentl/",
+     "pos": "n.",
+     "zh": "东方人，亚洲人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "unrest",
+     "ipa": "/.ʌnˈrest/",
+     "pos": "n.",
+     "zh": "不安的状态，动荡的局面",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tow",
+     "ipa": "/təu/",
+     "pos": "n.",
+     "zh": "拖，拖绳，拖轮",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "doubtful",
+     "ipa": "/ˈdautful/",
+     "pos": "adj.",
+     "zh": "可疑的，疑心的，不明确的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dismay",
+     "ipa": "/disˈmei/",
+     "pos": "n.",
+     "zh": "沮丧",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lavish",
+     "ipa": "/ˈlæviʃ/",
+     "pos": "adj.",
+     "zh": "大方的，丰富的，浪费的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pointed",
+     "ipa": "/ˈpɒintid/",
+     "pos": "adj.",
+     "zh": "尖的，有尖顶的，锐利的，率直的，显然的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pilgrim",
+     "ipa": "/ˈpilgrim/",
+     "pos": "n.",
+     "zh": "旅行者，朝圣者，香客",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hamper",
+     "ipa": "/ˈhæpə/",
+     "pos": "n.",
+     "zh": "食篮，阻碍物，食盒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vegetarian",
+     "ipa": "/.vedʒiˈtɛəriən/",
+     "pos": "n.",
+     "zh": "素食者，食草动物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "imposing",
+     "ipa": "/imˈpəuziŋ/",
+     "pos": "adj.",
+     "zh": "令人难忘的，壮丽的，威风的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tutor",
+     "ipa": "/ˈtjuːtə/",
+     "pos": "n.",
+     "zh": "家庭教师，导师，助教，监护人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "trek",
+     "ipa": "/trek/",
+     "pos": "vi.",
+     "zh": "牛拉货车，艰苦跋涉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "safeguard",
+     "ipa": "/ˈseifgɑːd/",
+     "pos": "n.",
+     "zh": "保卫，保护措施，防护设施",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brisk",
+     "ipa": "/brisk/",
+     "pos": "adj.",
+     "zh": "强烈的，寒冷而干燥的，活泼的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "console",
+     "ipa": "/kənˈsəul/",
+     "pos": "vt.",
+     "zh": "安慰，藉慰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "solemn",
+     "ipa": "/ˈsɒləm/",
+     "pos": "adj.",
+     "zh": "严肃的，郑重的，庄严的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hound",
+     "ipa": "/haund/",
+     "pos": "n.",
+     "zh": "猎犬",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dread",
+     "ipa": "/dred/",
+     "pos": "n.",
+     "zh": "恐惧，可怕的人(或事)",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chemist",
+     "ipa": "/ˈkemist/",
+     "pos": "n.",
+     "zh": "化学家，药剂师",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "captive",
+     "ipa": "/ˈkæptiv/",
+     "pos": "n.",
+     "zh": "俘虏，迷恋者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dreadful",
+     "ipa": "/ˈdredful/",
+     "pos": "adj.",
+     "zh": "可怕的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fridge",
+     "ipa": "/fridʒ/",
+     "pos": "n.",
+     "zh": "电冰箱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fuss",
+     "ipa": "/fʌs/",
+     "pos": "n.",
+     "zh": "大惊小怪，小题大作，忙乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cupboard",
+     "ipa": "/ˈkʌpbɒːd/",
+     "pos": "n.",
+     "zh": "食橱，碗柜，餐具柜",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bowel",
+     "ipa": "/ˈbauəl/",
+     "pos": "n.",
+     "zh": "肠，内脏，内部",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ruthless",
+     "ipa": "/ˈruːθlis/",
+     "pos": "adj.",
+     "zh": "无情的，残忍的，毫不留情的，彻底的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "outlaw",
+     "ipa": "/ˈautlɒː/",
+     "pos": "n.",
+     "zh": "被剥夺法律保护的人，罪犯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cripple",
+     "ipa": "/ˈkripl/",
+     "pos": "n.",
+     "zh": "跛者，残废",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tangle",
+     "ipa": "/ˈtæŋgl/",
+     "pos": "n.",
+     "zh": "缠结，纠结的一团，困惑，纠纷，混乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "digest",
+     "ipa": "/diˈdʒest/",
+     "pos": "n.",
+     "zh": "文摘",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "limp",
+     "ipa": "/limp/",
+     "pos": "n.",
+     "zh": "跛行",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dilute",
+     "ipa": "/daiˈljuːt/",
+     "pos": "vt.",
+     "zh": "冲淡，稀释",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mortal",
+     "ipa": "/ˈmɒːtəl/",
+     "pos": "n.",
+     "zh": "生物，人类",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "exempt",
+     "ipa": "/igˈzempt/",
+     "pos": "n.",
+     "zh": "免税者，被免除义务者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "monarchy",
+     "ipa": "/ˈmɒnəki/",
+     "pos": "n.",
+     "zh": "君主政体，君主国，君主政治",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "defiance",
+     "ipa": "/diˈfaiəns/",
+     "pos": "n.",
+     "zh": "蔑视，挑战",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rot",
+     "ipa": "/rɒt/",
+     "pos": "n.",
+     "zh": "腐烂，腐蚀，败坏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "taxation",
+     "ipa": "/tækˈseiʃən/",
+     "pos": "n.",
+     "zh": "课税，征税，抽税，税款，估定的税额",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "underline",
+     "ipa": "/ˈʌndəlain/",
+     "pos": "vt.",
+     "zh": "在…下面划线，作…的衬里，强调",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "oust",
+     "ipa": "/aust/",
+     "pos": "vt.",
+     "zh": "逐出，罢黜，剥夺，驱逐",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g9",
+   "name": "第 9 组",
+   "words": [
+    {
+     "w": "stitch",
+     "ipa": "/stitʃ/",
+     "pos": "n.",
+     "zh": "一针，疼痛，针法，碎布条，针脚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "subordinate",
+     "ipa": "/səˈbɒːdnit/",
+     "pos": "n.",
+     "zh": "属下，附属物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gloomy",
+     "ipa": "/ˈgluːmi/",
+     "pos": "adj.",
+     "zh": "抑沉的，忧闷的，黑暗的，悲观的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tidy",
+     "ipa": "/ˈtaidi/",
+     "pos": "n.",
+     "zh": "椅子的背罩，装杂物的容器",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "videotape",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "录相磁带",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "psychiatry",
+     "ipa": "/saiˈkaiətri/",
+     "pos": "n.",
+     "zh": "精神病学，精神病治疗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "savage",
+     "ipa": "/ˈsævidʒ/",
+     "pos": "adj.",
+     "zh": "未开化的，野蛮的，无礼的，残酷的，原始的，粗鲁的，未开发的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sailing",
+     "ipa": "/ˈseiliŋ/",
+     "pos": "n.",
+     "zh": "航行，航海术，启航",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "statesman",
+     "ipa": "/ˈsteitsmən/",
+     "pos": "n.",
+     "zh": "政治家",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fitting",
+     "ipa": "/ˈfitiŋ/",
+     "pos": "adj.",
+     "zh": "适宜的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coupon",
+     "ipa": "/ˈkuːpɒn/",
+     "pos": "n.",
+     "zh": "息票，赠券",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stern",
+     "ipa": "/stəːn/",
+     "pos": "n.",
+     "zh": "尾部，船尾，臀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vain",
+     "ipa": "/vein/",
+     "pos": "adj.",
+     "zh": "无价值的，徒然的，空虚的，自负的，愚蠢的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deplete",
+     "ipa": "/diˈpliːt/",
+     "pos": "vt.",
+     "zh": "耗尽，使衰竭",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gleam",
+     "ipa": "/gliːm/",
+     "pos": "n.",
+     "zh": "光束，微光，反光",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sow",
+     "ipa": "/sau. səu/",
+     "pos": "n.",
+     "zh": "母猪，懒胖女人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hardy",
+     "ipa": "/ˈhɑːdi/",
+     "pos": "adj.",
+     "zh": "难的，艰苦的，坚硬的，勇敢的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brew",
+     "ipa": "/bruː/",
+     "pos": "n.",
+     "zh": "酿造酒，酝酿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "disco",
+     "ipa": "/ˈdiskəu/",
+     "pos": "n.",
+     "zh": "夜总会，迪斯科，的士高",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "steward",
+     "ipa": "/ˈstjuːwəd/",
+     "pos": "n.",
+     "zh": "管理人，招待员，管家，乘务员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sparkle",
+     "ipa": "/ˈspɑːkl/",
+     "pos": "n.",
+     "zh": "闪耀，火花，活力，发泡",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "booklet",
+     "ipa": "/ˈbuklit/",
+     "pos": "n.",
+     "zh": "小册子",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "emigrate",
+     "ipa": "/ˈemigreit/",
+     "pos": "v.",
+     "zh": "(使)移居，(使)移民",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bribe",
+     "ipa": "/braib/",
+     "pos": "n.",
+     "zh": "贿赂",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "climax",
+     "ipa": "/ˈklaimæks/",
+     "pos": "n.",
+     "zh": "高潮，极点，层进法",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nominal",
+     "ipa": "/ˈnɒminl/",
+     "pos": "adj.",
+     "zh": "名义上的，名字的，有名无实的，稍许的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "provisional",
+     "ipa": "/prəˈviʒənl/",
+     "pos": "adj.",
+     "zh": "暂时的，暂定的，临时的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "refund",
+     "ipa": "/ˈriːfʌnd/",
+     "pos": "n.",
+     "zh": "偿还",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "renaissance",
+     "ipa": "/riˈneisəns/",
+     "pos": "n.",
+     "zh": "复活，复兴，文艺复兴",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "magistrate",
+     "ipa": "/ˈmædʒistreit/",
+     "pos": "n.",
+     "zh": "长官，法官，推事",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "truce",
+     "ipa": "/truːs/",
+     "pos": "n.",
+     "zh": "停战，休战",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "discreet",
+     "ipa": "/disˈkriːt/",
+     "pos": "adj.",
+     "zh": "小心的，慎重的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rehabilitate",
+     "ipa": "/.riːhəˈbiliteit/",
+     "pos": "vt.",
+     "zh": "恢复原状，修复，使康复",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "speaking",
+     "ipa": "/ˈspiːkiŋ/",
+     "pos": "n.",
+     "zh": "谈话，演说",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inland",
+     "ipa": "/ˈinlənd/",
+     "pos": "adj.",
+     "zh": "内陆的，国内的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "expulsion",
+     "ipa": "/ikˈspʌlʃən/",
+     "pos": "n.",
+     "zh": "逐出，开除，驱逐，排气",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "esteem",
+     "ipa": "/iˈstiːm/",
+     "pos": "n.",
+     "zh": "尊敬，尊重",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "barricade",
+     "ipa": "/.bæriˈkeid/",
+     "pos": "n.",
+     "zh": "路障，障碍",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "deduct",
+     "ipa": "/diˈdʌkt/",
+     "pos": "vt.",
+     "zh": "扣除，减去",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "grace",
+     "ipa": "/greis/",
+     "pos": "n.",
+     "zh": "优雅，风度，慈悲，恩惠，体面，赦免，恩典，谢恩祷告",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "quarterly",
+     "ipa": "/ˈkwɔːtəli/",
+     "pos": "adj.",
+     "zh": "季度的，按季度的，每季的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "unconditional",
+     "ipa": "/.ʌnkənˈdiʃənl/",
+     "pos": "adj.",
+     "zh": "无条件的，无限制的，绝对的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rave",
+     "ipa": "/reiv/",
+     "pos": "n.",
+     "zh": "狂吼，狂暴",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "locomotive",
+     "ipa": "/.ləukəˈməutiv/",
+     "pos": "n.",
+     "zh": "火车头，机车",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "approximate",
+     "ipa": "/əˈprɒksimət/",
+     "pos": "adj.",
+     "zh": "大约的，接近的，近似的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "glitter",
+     "ipa": "/ˈglitə/",
+     "pos": "n.",
+     "zh": "灿烂，闪烁，辉耀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "torment",
+     "ipa": "/ˈtɒːment/",
+     "pos": "n.",
+     "zh": "使人痛苦的东西，折磨者，苦痛",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "guild",
+     "ipa": "/gild/",
+     "pos": "n.",
+     "zh": "团体，协会，行业协会",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "meditate",
+     "ipa": "/ˈmediteit/",
+     "pos": "vt.",
+     "zh": "想，考虑，计划",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "acclaim",
+     "ipa": "/əˈkleim/",
+     "pos": "n.",
+     "zh": "喝彩，欢呼，赞同",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c07-g10",
+   "name": "第 10 组",
+   "words": [
+    {
+     "w": "underwrite",
+     "ipa": "/ˈʌndərait/",
+     "pos": "vt.",
+     "zh": "签名于下，给…保险",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hasty",
+     "ipa": "/ˈheisti/",
+     "pos": "adj.",
+     "zh": "匆匆的，轻率的，性怠的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "compulsory",
+     "ipa": "/kəmˈpʌlsəri/",
+     "pos": "adj.",
+     "zh": "被强制的，强迫的，义务的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "aggregate",
+     "ipa": "/ˈægrigət/",
+     "pos": "n.",
+     "zh": "合计，总计，聚集体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "redundant",
+     "ipa": "/riˈdʌndənt/",
+     "pos": "adj.",
+     "zh": "多余的，过多的，冗长的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "courier",
+     "ipa": "/ˈkuriə/",
+     "pos": "n.",
+     "zh": "送快信的人，伴游服务员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "junction",
+     "ipa": "/ˈdʒʌŋkʃən/",
+     "pos": "n.",
+     "zh": "连接，会合处，交叉点",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dole",
+     "ipa": "/dəul/",
+     "pos": "n.",
+     "zh": "救济品，失业救济金",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "levy",
+     "ipa": "/ˈlevi/",
+     "pos": "n.",
+     "zh": "税款，所征的人数，征收",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "leaflet",
+     "ipa": "/ˈliːflit/",
+     "pos": "n.",
+     "zh": "小叶，传单",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "safari",
+     "ipa": "/səˈfɑːri/",
+     "pos": "n.",
+     "zh": "旅行，旅行队，科学考察",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "retort",
+     "ipa": "/riˈtɒːt/",
+     "pos": "n.",
+     "zh": "反驳，顶嘴，蒸馏器，曲颈甑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "commonwealth",
+     "ipa": "/ˈkɔmənwelθ/",
+     "pos": "n.",
+     "zh": "共和国；联邦；国民整体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "booking",
+     "ipa": "/ˈbukiŋ/",
+     "pos": "n.",
+     "zh": "预约演出合同",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vogue",
+     "ipa": "/vəug/",
+     "pos": "n.",
+     "zh": "时尚，时髦，流行",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rubbish",
+     "ipa": "/ˈrʌbiʃ/",
+     "pos": "n.",
+     "zh": "废物，垃圾，胡说",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "obsess",
+     "ipa": "/əbˈses/",
+     "pos": "vt.",
+     "zh": "迷住，使困扰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cardinal",
+     "ipa": "/ˈkɑːdinəl/",
+     "pos": "n.",
+     "zh": "红衣主教，鲜红色",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "syndicate",
+     "ipa": "/ˈsindikit/",
+     "pos": "n.",
+     "zh": "企业联合，辛迪加，财团",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "envisage",
+     "ipa": "/inˈvizidʒ/",
+     "pos": "vt.",
+     "zh": "面对，正视，想象",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cola",
+     "ipa": "/ˈkəulə/",
+     "pos": null,
+     "zh": "结肠，冒号，科朗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "isle",
+     "ipa": "/ail/",
+     "pos": "n.",
+     "zh": "小岛，群岛",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "repatriate",
+     "ipa": "/riːˈpætrieit/",
+     "pos": "vt.",
+     "zh": "把…遣返",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "petrol",
+     "ipa": "/ˈpetrəl/",
+     "pos": "n.",
+     "zh": "汽油",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fortnight",
+     "ipa": "/ˈfɒːtnait/",
+     "pos": "n.",
+     "zh": "两星期",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mould",
+     "ipa": "/məuld/",
+     "pos": "n.",
+     "zh": "模子，模制品，松软沃土，霉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fibre",
+     "ipa": "/ˈfaibə/",
+     "pos": "n.",
+     "zh": "纤维，构造，纤维制品",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "plough",
+     "ipa": "/plau/",
+     "pos": "n.",
+     "zh": "犁，犁过的地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "endeavour",
+     "ipa": "/inˈdevə/",
+     "pos": "n.",
+     "zh": "努力，力图，尽力",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "situated",
+     "ipa": "/ˈsitjueitid/",
+     "pos": "adj.",
+     "zh": "位于…的，坐落在…的，处于某种境地的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cosy",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "温暖舒适的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sceptical",
+     "ipa": "/ˈskeptikl/",
+     "pos": "adj.",
+     "zh": "怀疑论的，怀疑的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "armour",
+     "ipa": "/ˈɑːmə/",
+     "pos": "n.",
+     "zh": "甲胄，装甲，潜水服",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "eagle",
+     "ipa": "/ˈiːgl/",
+     "pos": "n.",
+     "zh": "鹰，鹰状标饰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "calorie",
+     "ipa": "/ˈkæləri/",
+     "pos": "n.",
+     "zh": "卡路里（热量单位）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "criterion",
+     "ipa": "/kraiˈtiəriən/",
+     "pos": "n.",
+     "zh": "标准，准则，规范",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "full-time",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "全部时间的，专任的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nil",
+     "ipa": "/nil/",
+     "pos": "n.",
+     "zh": "无，全无，零",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pants",
+     "ipa": "/pænts/",
+     "pos": "n.",
+     "zh": "裤子，长裤，短衬裤，女式运动短裤",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "part-time",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "兼任的，半工半读的，部分时间的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "proceeding",
+     "ipa": "/prəuˈsiːdiŋ/",
+     "pos": "n.",
+     "zh": "进行，程序，行动，诉讼程序，事项",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tumour",
+     "ipa": "/ˈtjuːmə/",
+     "pos": "n.",
+     "zh": "瘤，肿块",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tyre",
+     "ipa": "/ˈtaiə/",
+     "pos": "n.",
+     "zh": "轮胎",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "x-ray",
+     "ipa": "/ˈeksˈrei/",
+     "pos": "adj.",
+     "zh": "X射线的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  }
+ ]
+}

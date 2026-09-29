@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>雅思词汇 · 背诵</title>
+
+<!-- 加到主屏幕后才能用。iOS 上这一步直接决定进度会不会被清掉 -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="雅思词汇">
+<meta name="theme-color" content="#3E5F94">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<div id="app"></div>
+
+<!-- 底部标签栏 -->
+<nav class="tabbar hide" id="tabbar">
+  <a href="#/home"     data-tab="home"><span class="ic">🏠</span>首页</a>
+  <a href="#/chapters" data-tab="chapters"><span class="ic">📖</span>章节</a>
+  <a href="#/quiz"     data-tab="quiz"><span class="ic">✍️</span>检测</a>
+  <a href="#/stats"    data-tab="stats"><span class="ic">📅</span>打卡</a>
+  <a href="#/settings" data-tab="settings"><span class="ic">⚙️</span>设置</a>
+</nav>
+
+<!-- 首次启动的发音解锁。必须在真实点击里同步触发 -->
+<div class="veil" id="unlockVeil" hidden>
+  <div class="inner">
+    <div style="font-size:44px;margin-bottom:6px">🔊</div>
+    <h2>先开启发音</h2>
+    <p>Safari 规定：网页必须先收到一次真实点击，才允许朗读。点下面这个按钮就行。</p>
+    <button class="btn" id="unlockBtn">开启发音</button>
+    <button class="btn ghost" id="unlockSkip" style="margin-top:10px">先不用发音，直接开始</button>
+  </div>
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+# 原始语料太大（几十上百 MB），留在 _ielts_src/ 不进仓库。
+# 需要时按 README 里的说明重新跑脚本生成。
+_ielts_src/
+*.bz2
+ecdict.csv
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/

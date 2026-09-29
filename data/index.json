@@ -1,0 +1,84 @@
+{
+  "dataVersion": 2,
+  "source": "ECDICT (MIT License, Copyright (c) 2025 Linwei)",
+  "note": "词表来自开源词库 ECDICT 的雅思标签词，按柯林斯星级分章、章内按词频排。例句待 Tatoeba 回填。",
+  "chapters": [
+    {
+      "id": "c01",
+      "n": 1,
+      "title": "核心必备",
+      "titleEn": "Core Essentials",
+      "count": 231
+    },
+    {
+      "id": "c02",
+      "n": 2,
+      "title": "高频词",
+      "titleEn": "High Frequency",
+      "count": 536
+    },
+    {
+      "id": "c03",
+      "n": 3,
+      "title": "常用词 · 上",
+      "titleEn": "Common Words",
+      "count": 398
+    },
+    {
+      "id": "c04",
+      "n": 4,
+      "title": "常用词 · 下",
+      "titleEn": "Common Words",
+      "count": 398
+    },
+    {
+      "id": "c05",
+      "n": 5,
+      "title": "进阶词 · 上",
+      "titleEn": "Building Blocks",
+      "count": 494
+    },
+    {
+      "id": "c06",
+      "n": 6,
+      "title": "进阶词 · 中",
+      "titleEn": "Building Blocks",
+      "count": 494
+    },
+    {
+      "id": "c07",
+      "n": 7,
+      "title": "进阶词 · 下",
+      "titleEn": "Building Blocks",
+      "count": 494
+    },
+    {
+      "id": "c08",
+      "n": 8,
+      "title": "拓展词 · 上",
+      "titleEn": "Extra Vocabulary",
+      "count": 410
+    },
+    {
+      "id": "c09",
+      "n": 9,
+      "title": "拓展词 · 中",
+      "titleEn": "Extra Vocabulary",
+      "count": 410
+    },
+    {
+      "id": "c10",
+      "n": 10,
+      "title": "拓展词 · 下",
+      "titleEn": "Extra Vocabulary",
+      "count": 410
+    },
+    {
+      "id": "c11",
+      "n": 11,
+      "title": "其他雅思词",
+      "titleEn": "Other IELTS Words",
+      "count": 517
+    }
+  ]
+}

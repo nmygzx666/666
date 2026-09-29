@@ -1,0 +1,4728 @@
+{
+ "id": "c11",
+ "n": 11,
+ "title": "其他雅思词",
+ "titleEn": "Other IELTS Words",
+ "source": "ECDICT (MIT)",
+ "clusters": [
+  {
+   "id": "c11-g1",
+   "name": "第 1 组",
+   "words": [
+    {
+     "w": "American",
+     "ipa": "/əˈmerikən/",
+     "pos": "n.",
+     "zh": "美国人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "best",
+     "ipa": "/best/",
+     "pos": "adj.",
+     "zh": "最好的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "teacher",
+     "ipa": "/ˈtiːtʃə/",
+     "pos": "n.",
+     "zh": "教师，老师，导师",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "center",
+     "ipa": "/ˈsentə/",
+     "pos": "n.",
+     "zh": "中心，中心点，中锋",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "behavior",
+     "ipa": "/biˈheivjə/",
+     "pos": "n.",
+     "zh": "行为，举止",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "per",
+     "ipa": "/pəː/",
+     "pos": "prep.",
+     "zh": "每一，通过，经，按照",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "color",
+     "ipa": "/ˈkʌlə/",
+     "pos": "n.",
+     "zh": "颜色，面色，颜料，外貌",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "training",
+     "ipa": "/ˈtreiniŋ/",
+     "pos": "n.",
+     "zh": "训练，培养",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "writer",
+     "ipa": "/ˈraitə/",
+     "pos": "n.",
+     "zh": "作家，撰稿者，抄写员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "western",
+     "ipa": "/ˈwestən/",
+     "pos": "n.",
+     "zh": "西方人，西部片，西部小说",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "investigation",
+     "ipa": "/in.vestiˈgeiʃən/",
+     "pos": "n.",
+     "zh": "调查，审查",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "British",
+     "ipa": "/ˈbritiʃ/",
+     "pos": "adj.",
+     "zh": "英国的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "African",
+     "ipa": "/ˈæfrikən/",
+     "pos": "n.",
+     "zh": "非洲人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Chinese",
+     "ipa": "/tʃaiˈniːz/",
+     "pos": "n.",
+     "zh": "中文，中国话，中国人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "driver",
+     "ipa": "/ˈdraivə/",
+     "pos": "n.",
+     "zh": "驾驶员，驱动器，驱动程序",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sales",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "销售的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "European",
+     "ipa": "/.juərəˈpiːən/",
+     "pos": "n.",
+     "zh": "欧洲人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "terms",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "条件，条款，费用，价钱，关系，地位，交谊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "additional",
+     "ipa": "/əˈdiʃənəl/",
+     "pos": "adj.",
+     "zh": "附加的，另外的，额外的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "French",
+     "ipa": "/frentʃ/",
+     "pos": "n.",
+     "zh": "法国人，法文，法式",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Indian",
+     "ipa": "/ˈindiən/",
+     "pos": "n.",
+     "zh": "印度人，印第安人，印第安语",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "assessment",
+     "ipa": "/əˈsesmənt/",
+     "pos": "n.",
+     "zh": "评估，估定，评定的款额",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "favorite",
+     "ipa": "/ˈfeivərit/",
+     "pos": "n.",
+     "zh": "喜欢的事物，幸运儿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Japanese",
+     "ipa": "/.dʒæpəˈniːz/",
+     "pos": "n.",
+     "zh": "日本人，日语",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "contribution",
+     "ipa": "/.kɒntriˈbjuːʃən/",
+     "pos": "n.",
+     "zh": "捐助，捐助之物，贡献",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "German",
+     "ipa": "/ˈdʒəːmən/",
+     "pos": "n.",
+     "zh": "德国人，德语",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intervention",
+     "ipa": "/.intəˈvenʃən/",
+     "pos": "n.",
+     "zh": "插入，介入，调停",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "saving",
+     "ipa": "/ˈseiviŋ/",
+     "pos": "n.",
+     "zh": "存款，挽救，节约",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Spanish",
+     "ipa": "/ˈspæniʃ/",
+     "pos": "n.",
+     "zh": "西班牙人，西班牙语",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "existence",
+     "ipa": "/igˈzistəns/",
+     "pos": "n.",
+     "zh": "存在，生存",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "independence",
+     "ipa": "/.indiˈpendəns/",
+     "pos": "n.",
+     "zh": "独立，自立，自主",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "marketing",
+     "ipa": "/ˈmɑːkitiŋ/",
+     "pos": "n.",
+     "zh": "行销，买卖",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "spending",
+     "ipa": "/ˈspendiŋ/",
+     "pos": "n.",
+     "zh": "经费，开销",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "favor",
+     "ipa": "/ˈfeivə/",
+     "pos": "n.",
+     "zh": "好意，喜爱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fiber",
+     "ipa": "/ˈfaibə/",
+     "pos": "n.",
+     "zh": "纤维，构造，纤维制品",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Canadian",
+     "ipa": "/kəˈneidiən/",
+     "pos": "adj.",
+     "zh": "加拿大的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "advertising",
+     "ipa": "/ˈædvətaiziŋ/",
+     "pos": "n.",
+     "zh": "广告业，广告",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "survival",
+     "ipa": "/səˈvaivəl/",
+     "pos": "n.",
+     "zh": "生存，残存，幸存者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cooperation",
+     "ipa": "/kəu.ɒpəˈreiʃən/",
+     "pos": "n.",
+     "zh": "合作，协力，配合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "statistics",
+     "ipa": "/stəˈtistiks/",
+     "pos": "n.",
+     "zh": "统计学，统计资料",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "genetic",
+     "ipa": "/dʒiˈnetik/",
+     "pos": "adj.",
+     "zh": "创始的，遗传的，起源的，遗传学的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "expansion",
+     "ipa": "/ikˈspænʃən/",
+     "pos": "n.",
+     "zh": "扩充，开展，膨胀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Olympic",
+     "ipa": "/əuˈlimpik/",
+     "pos": "adj.",
+     "zh": "奥林匹亚的，奥林匹斯山的，强有力的，巨大的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "recommendation",
+     "ipa": "/.rekəmenˈdeiʃən/",
+     "pos": "n.",
+     "zh": "推荐，介绍，推荐信，劝告",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "awareness",
+     "ipa": "/əˈweənis/",
+     "pos": "n.",
+     "zh": "意识，认识",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "regularly",
+     "ipa": "/ˈregjuləli/",
+     "pos": "adv.",
+     "zh": "有规则地，一丝不苟地，正式地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dining",
+     "ipa": "/ˈdainiŋ/",
+     "pos": "n.",
+     "zh": "正餐，宴会",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stability",
+     "ipa": "/stəˈbiliti/",
+     "pos": "n.",
+     "zh": "安定，稳定性，坚实，巩固",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dependent",
+     "ipa": "/diˈpendənt/",
+     "pos": "n.",
+     "zh": "依赖他人者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "physically",
+     "ipa": "/ˈfizikli/",
+     "pos": "adv.",
+     "zh": "按自然规律，完全地，实际上，真正地，身体上地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g2",
+   "name": "第 2 组",
+   "words": [
+    {
+     "w": "pie",
+     "ipa": "/pai/",
+     "pos": "n.",
+     "zh": "馅饼，财富，总额，贪污受贿，杂乱，喜鹊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fitness",
+     "ipa": "/ˈfitnis/",
+     "pos": "n.",
+     "zh": "适合，合宜，合理，恰当，健康",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drinking",
+     "ipa": "/ˈdriŋkiŋ/",
+     "pos": "n.",
+     "zh": "喝，喝酒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "seemingly",
+     "ipa": "/ˈsiːmiŋli/",
+     "pos": "adv.",
+     "zh": "看来似乎，表面上看来",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inspection",
+     "ipa": "/inˈspekʃən/",
+     "pos": "n.",
+     "zh": "检验，检查，视察",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "replacement",
+     "ipa": "/riˈpleismənt/",
+     "pos": "n.",
+     "zh": "归还，更换，代替者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mandate",
+     "ipa": "/ˈmændeit/",
+     "pos": "n.",
+     "zh": "命令，指令，要求",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "transaction",
+     "ipa": "/trænˈsækʃən/",
+     "pos": "n.",
+     "zh": "交易，办理，学报，和解协议",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "starting",
+     "ipa": "/ˈstɑːtiŋ/",
+     "pos": "n.",
+     "zh": "开端，开始，出发，起动，开动",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "prevention",
+     "ipa": "/priˈvenʃən/",
+     "pos": "n.",
+     "zh": "阻止，妨碍，预防",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enroll",
+     "ipa": "/inˈrəul/",
+     "pos": "vt.",
+     "zh": "登记，使加入",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cooperate",
+     "ipa": "/kəuˈɒpəreit/",
+     "pos": "vi.",
+     "zh": "合作，协力，配合",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coastal",
+     "ipa": "/ˈkəustəl/",
+     "pos": "adj.",
+     "zh": "海岸的，沿海的，沿岸的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inspiration",
+     "ipa": "/.inspəˈreiʃən/",
+     "pos": "n.",
+     "zh": "灵感，鼓舞人心的人或物，妙计，吸气",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "accuracy",
+     "ipa": "/ˈækjurəsi/",
+     "pos": "n.",
+     "zh": "精确，正确",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "talented",
+     "ipa": "/ˈtæləntid/",
+     "pos": "adj.",
+     "zh": "天资高的，有才能的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "parental",
+     "ipa": "/pəˈrentəl/",
+     "pos": "adj.",
+     "zh": "父母亲的，做双亲的，作为渊源的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "jewelry",
+     "ipa": "/ˈdʒuːəlri/",
+     "pos": "n.",
+     "zh": "珠宝，珠宝类",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fascinating",
+     "ipa": "/ˈfæsineitiŋ/",
+     "pos": "adj.",
+     "zh": "迷人的，吸引人的，使人神魂颠倒的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "execution",
+     "ipa": "/.eksiˈkjuːʃən/",
+     "pos": "n.",
+     "zh": "实行，完成，执行，死刑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "experienced",
+     "ipa": "/ikˈspiəriənst/",
+     "pos": "adj.",
+     "zh": "富有经验的，老练的，熟练的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "donation",
+     "ipa": "/dəuˈneiʃən/",
+     "pos": "n.",
+     "zh": "捐赠物，捐款，捐赠",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "catalog",
+     "ipa": "/ˈkætəlɒg/",
+     "pos": "n.",
+     "zh": "目录，大学概况手册",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "migration",
+     "ipa": "/maiˈgreiʃən/",
+     "pos": "n.",
+     "zh": "移民，移往，移动",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "validity",
+     "ipa": "/vəˈliditi/",
+     "pos": "n.",
+     "zh": "有效性，正确性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "supposedly",
+     "ipa": "/səˈpəuzidli/",
+     "pos": "adv.",
+     "zh": "想象上，看上去像，被认为是，恐怕，按照推测",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "harassment",
+     "ipa": "/ˈhærəsmənt/",
+     "pos": "n.",
+     "zh": "困扰，烦扰，烦恼",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "autonomy",
+     "ipa": "/ɒːˈtɒnəmi/",
+     "pos": "n.",
+     "zh": "自治，自治权",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "blond",
+     "ipa": "/blɒnd/",
+     "pos": "adj.",
+     "zh": "金发的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "neighboring",
+     "ipa": "/ˈneibəriŋ/",
+     "pos": "adj.",
+     "zh": "附近的，邻近的，邻接的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "narrator",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "讲述者，叙述者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "website",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "网站（全球资讯网的主机站）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "smoking",
+     "ipa": "/ˈsməukiŋ/",
+     "pos": "n.",
+     "zh": "抽烟，冒烟",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "skiing",
+     "ipa": "/ˈskiːiŋ/",
+     "pos": "n.",
+     "zh": "滑雪运动，滑雪术",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "organizer",
+     "ipa": "/ˈɒːgənaizə/",
+     "pos": "n.",
+     "zh": "组织者，编制者，创立者，组织导体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "warming",
+     "ipa": "/ˈwɔːmiŋ/",
+     "pos": "n.",
+     "zh": "暖和，加温，暖热，温暖，(非正式)打，鞭打",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "breakdown",
+     "ipa": "/ˈbreikdaun/",
+     "pos": "n.",
+     "zh": "崩溃，故障",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "kidney",
+     "ipa": "/ˈkidni/",
+     "pos": "n.",
+     "zh": "肾，个性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Australian",
+     "ipa": "/ɒˈstreiljən/",
+     "pos": "n.",
+     "zh": "澳大利亚人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nursing",
+     "ipa": "/ˈnəːsiŋ/",
+     "pos": "n.",
+     "zh": "看护，养育",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "breakthrough",
+     "ipa": "/ˈbreikθruː/",
+     "pos": "n.",
+     "zh": "突破",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rising",
+     "ipa": "/ˈraiziŋ/",
+     "pos": "n.",
+     "zh": "上升，造反，叛乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "confirmation",
+     "ipa": "/.kɒnfəˈmeiʃən/",
+     "pos": "n.",
+     "zh": "证实，证明，批准，确认",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "assassination",
+     "ipa": "/ə.sæsiˈneiʃən/",
+     "pos": "n.",
+     "zh": "暗杀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "handling",
+     "ipa": "/ˈhændliŋ/",
+     "pos": "n.",
+     "zh": "处理",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "geographic",
+     "ipa": "/,dʒiəˈ^ræfik/",
+     "pos": "adj.",
+     "zh": "地理(学)的，地区(性)的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "semester",
+     "ipa": "/siˈmestə/",
+     "pos": "n.",
+     "zh": "学期",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "psychiatric",
+     "ipa": "/saikiˈætrik; (?@) si-/",
+     "pos": "adj.",
+     "zh": "精神病学的，医精神病的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rotate",
+     "ipa": "/ˈrəuteit/",
+     "pos": "adj.",
+     "zh": "辐状的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Egyptian",
+     "ipa": "/iˈdʒipʃən/",
+     "pos": "n.",
+     "zh": "埃及人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g3",
+   "name": "第 3 组",
+   "words": [
+    {
+     "w": "undoubtedly",
+     "ipa": "/ʌnˈdajtidli/",
+     "pos": "adv.",
+     "zh": "无疑，必定，确实地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "aspiration",
+     "ipa": "/.æspəˈreiʃən/",
+     "pos": "n.",
+     "zh": "热望，志向，渴望",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dioxide",
+     "ipa": "/daiˈɒksaid/",
+     "pos": "n.",
+     "zh": "二氧化物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "harbor",
+     "ipa": "/ˈhɑːbə/",
+     "pos": "n.",
+     "zh": "港，避难所",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intersection",
+     "ipa": "/.intəˈsekʃən/",
+     "pos": "n.",
+     "zh": "交集，十字路口，交叉点",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ignorance",
+     "ipa": "/ˈignərəns/",
+     "pos": "n.",
+     "zh": "无知，愚味",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sleeping",
+     "ipa": "/ˈsliːpiŋ/",
+     "pos": "n.",
+     "zh": "睡眠",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "breeding",
+     "ipa": "/ˈbriːdiŋ/",
+     "pos": "n.",
+     "zh": "教养，生育，饲养",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "revision",
+     "ipa": "/riˈviʒən/",
+     "pos": "n.",
+     "zh": "校订，修正，修订本，修订版",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cleaning",
+     "ipa": "/ˈkliːniŋ/",
+     "pos": "n.",
+     "zh": "清洁，扫除，家畜的胞衣，扫除出来的垃圾，大败，输得精光，除伐，巨额利润",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "toast",
+     "ipa": "/təust/",
+     "pos": "n.",
+     "zh": "吐司，烤面包，干杯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "poise",
+     "ipa": "/pɒiz/",
+     "pos": "n.",
+     "zh": "平衡，均衡，姿势，镇静，安静，砝码",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lender",
+     "ipa": "/ˈlendə/",
+     "pos": "n.",
+     "zh": "出借人，贷方",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enrollment",
+     "ipa": "/inˈrəulmənt/",
+     "pos": "n.",
+     "zh": "登记，注册，入伍",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "applied",
+     "ipa": "/əˈplaid/",
+     "pos": "adj.",
+     "zh": "应用的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "occupational",
+     "ipa": "/.ɒkjuˈpeiʃənl/",
+     "pos": "adj.",
+     "zh": "职业的，军事占领的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "renewal",
+     "ipa": "/riˈnjuːəl/",
+     "pos": "n.",
+     "zh": "更新，革新，复兴，恢复，修补，补充，继续，重订，重申，续借",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "commuter",
+     "ipa": "/kəˈmjuːtə/",
+     "pos": "n.",
+     "zh": "乘公共车辆上下班者，月季票乘客",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "roommate",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "住在同室的人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "destine",
+     "ipa": "/ˈdestin/",
+     "pos": "vt.",
+     "zh": "注定，预定",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "marvelous",
+     "ipa": "/ˈmɑːvələs/",
+     "pos": "adj.",
+     "zh": "令人惊异的，了不起的，不平常的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "irrigation",
+     "ipa": "/.iriˈgeiʃən/",
+     "pos": "n.",
+     "zh": "灌溉，冲洗",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dedication",
+     "ipa": "/.dediˈkeiʃən/",
+     "pos": "n.",
+     "zh": "奉献，献身，献辞",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "archaeological",
+     "ipa": "/.ɑːkiəˈlɒdʒikl/",
+     "pos": "adj.",
+     "zh": "考古学的，考古学上的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ambiguity",
+     "ipa": "/.æmbiˈgjuːiti/",
+     "pos": "n.",
+     "zh": "不明确，含糊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "periodically",
+     "ipa": "/,piəriˈɔdikəli/",
+     "pos": "adv.",
+     "zh": "定期，循环，间歇，周期，定期刊行，期刊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "preceding",
+     "ipa": "/.priːˈsiːdiŋ/",
+     "pos": "adj.",
+     "zh": "在前的，前面的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "printed",
+     "ipa": "/ˈprintid/",
+     "pos": "adj.",
+     "zh": "印刷的，印好的，印花样的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvə/",
+     "pos": "n.",
+     "zh": "演习，调遣，策略",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "renowned",
+     "ipa": "/riˈnaund/",
+     "pos": "adj.",
+     "zh": "有名的，有声誉的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "printing",
+     "ipa": "/ˈprintiŋ/",
+     "pos": "n.",
+     "zh": "印刷，印刷术，印花",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "renovation",
+     "ipa": "/.renəuˈveiʃən/",
+     "pos": "n.",
+     "zh": "革新，刷新，修理",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mid",
+     "ipa": "/mid/",
+     "pos": "adj.",
+     "zh": "中间的，中央的，中部的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "corresponding",
+     "ipa": "/.kɒriˈspɒndiŋ/",
+     "pos": "adj.",
+     "zh": "相当的，一致的，通信的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "planting",
+     "ipa": "/ˈplæntiŋ/",
+     "pos": "n.",
+     "zh": "种植，栽培，播种，人工林，花圃，苗圃",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dropout",
+     "ipa": "/ˈdrɒpaut/",
+     "pos": "n.",
+     "zh": "退学学生，中途退学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "yearn",
+     "ipa": "/jəːn/",
+     "pos": "vi.",
+     "zh": "渴望，想念，怀念，同情",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "physiological",
+     "ipa": "/.fiziəˈlɒdʒikl/",
+     "pos": "adj.",
+     "zh": "生理学的，生理学上的，生理机能的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "relaxation",
+     "ipa": "/.riːlækˈseiʃən/",
+     "pos": "n.",
+     "zh": "松弛，放松，减轻，缓和，休息，休养",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conversely",
+     "ipa": "/ˈkɔnv\\\\\\\\ːsli/",
+     "pos": "adv.",
+     "zh": "相反，逆，颠倒，反题，反",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cycling",
+     "ipa": "/ˈsaikliŋ/",
+     "pos": "n.",
+     "zh": "骑脚踏车兜风，骑脚踏车消遣",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "synthesis",
+     "ipa": "/ˈsinθisis/",
+     "pos": "n.",
+     "zh": "综合，组织，综合体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mutation",
+     "ipa": "/mjuːˈteiʃən/",
+     "pos": "n.",
+     "zh": "变化，突变，元音变化",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "purity",
+     "ipa": "/ˈpjuərəti/",
+     "pos": "n.",
+     "zh": "纯净，纯正，纯粹",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cliche",
+     "ipa": "/ˈkliːʃei/",
+     "pos": "n.",
+     "zh": "陈腔滥调，凸印版",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "greedy",
+     "ipa": "/ˈgriːdi/",
+     "pos": "adj.",
+     "zh": "贪婪的，贪得的，贪吃的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "touching",
+     "ipa": "/ˈtʌtʃiŋ/",
+     "pos": "adj.",
+     "zh": "动人的，令人同情的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coil",
+     "ipa": "/kɒil/",
+     "pos": "n.",
+     "zh": "线圈，盘绕，骚动，卷",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cultivation",
+     "ipa": "/.kʌltiˈveiʃən/",
+     "pos": "n.",
+     "zh": "教化，培养，耕作",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "apprehension",
+     "ipa": "/.æpriˈhenʃən/",
+     "pos": "n.",
+     "zh": "理解，忧惧，逮捕",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g4",
+   "name": "第 4 组",
+   "words": [
+    {
+     "w": "traveling",
+     "ipa": "/ˈtrævliŋ/",
+     "pos": "adj.",
+     "zh": "旅行的，旅行用的，移动的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "afflict",
+     "ipa": "/əˈflikt/",
+     "pos": "vt.",
+     "zh": "使苦恼，折磨",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "amidst",
+     "ipa": "/əˈmidst/",
+     "pos": "prep.",
+     "zh": "在…当中",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "discrete",
+     "ipa": "/disˈkriːt/",
+     "pos": "adj.",
+     "zh": "不连续的，离散的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flatter",
+     "ipa": "/ˈflætə/",
+     "pos": "vt.",
+     "zh": "奉承，阿谀，使高兴",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "microbe",
+     "ipa": "/ˈmaikrəub/",
+     "pos": "n.",
+     "zh": "微生物，细菌",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "notation",
+     "ipa": "/nəuˈteiʃən/",
+     "pos": "n.",
+     "zh": "记号，符号表示法，注释",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "proficiency",
+     "ipa": "/prəˈfiʃəns/",
+     "pos": "n.",
+     "zh": "精通，熟练，精练",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inspiring",
+     "ipa": "/inˈspaiəriŋ/",
+     "pos": "adj.",
+     "zh": "鼓舞人心的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "forestry",
+     "ipa": "/ˈfɒristri/",
+     "pos": "n.",
+     "zh": "林学，森林地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "resilience",
+     "ipa": "/riˈziliəns/",
+     "pos": "n.",
+     "zh": "弹回，有弹力，恢复力",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "madden",
+     "ipa": "/ˈmædn/",
+     "pos": "vt.",
+     "zh": "使发狂，激怒",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "janitor",
+     "ipa": "/ˈdʒænitə/",
+     "pos": "n.",
+     "zh": "守卫，门警，管理人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chancellor",
+     "ipa": "/ˈtʃɑːnsələ/",
+     "pos": "n.",
+     "zh": "大臣，总理，首相，大使馆/领事馆的一等秘书，司法官，大学校长",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tributary",
+     "ipa": "/ˈtribjutəri/",
+     "pos": "adj.",
+     "zh": "支流的，纳贡的，从属的，辅助的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "veterinarian",
+     "ipa": "/.vetəriˈnɛəriən/",
+     "pos": "n.",
+     "zh": "兽医",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "subtitle",
+     "ipa": "/ˈsʌb.taitl/",
+     "pos": "n.",
+     "zh": "副标题",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "touring",
+     "ipa": "/ˈtuəriŋ/",
+     "pos": "n.",
+     "zh": "游览",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "depletion",
+     "ipa": "/diˈpliːʃən/",
+     "pos": "n.",
+     "zh": "消耗，耗尽，放血",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "negligence",
+     "ipa": "/ˈneglidʒəns/",
+     "pos": "n.",
+     "zh": "疏忽，粗心大意，忽视",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "piety",
+     "ipa": "/ˈpaiəti/",
+     "pos": "n.",
+     "zh": "虔诚，孝敬，虔诚的行为",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "delinquency",
+     "ipa": "/diˈliŋkwənsi/",
+     "pos": "n.",
+     "zh": "行为不良，失职",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "migratory",
+     "ipa": "/ˈmaigrətəri/",
+     "pos": "adj.",
+     "zh": "迁移的，流浪的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "segregate",
+     "ipa": "/ˈsegrigeit/",
+     "pos": "adj.",
+     "zh": "分离的，被隔离的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "accuser",
+     "ipa": "/əˈkjuːzə/",
+     "pos": "n.",
+     "zh": "控诉者，指责者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "checkup",
+     "ipa": "/ˈtʃekʌp/",
+     "pos": "n.",
+     "zh": "审查，鉴定，健康检查",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "astound",
+     "ipa": "/əˈstaund/",
+     "pos": "vt.",
+     "zh": "使惊骇，使大惊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "paraphrase",
+     "ipa": "/ˈpærəfreiz/",
+     "pos": "n.",
+     "zh": "释义，解述，改写",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "agitation",
+     "ipa": "/.ædʒiˈteiʃən/",
+     "pos": "n.",
+     "zh": "激动，焦虑，煽动，搅动，摇动",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "oppress",
+     "ipa": "/əˈpres/",
+     "pos": "vt.",
+     "zh": "压迫，压抑，使烦恼",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "miscarriage",
+     "ipa": "/misˈkæridʒ/",
+     "pos": "n.",
+     "zh": "失败，误送，流产",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mire",
+     "ipa": "/maiə/",
+     "pos": "n.",
+     "zh": "泥沼，泥泞",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "increment",
+     "ipa": "/ˈinkrimənt/",
+     "pos": "n.",
+     "zh": "增加，增值，盈余",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "observance",
+     "ipa": "/əbˈzəːvəns/",
+     "pos": "n.",
+     "zh": "观察，遵守，仪式，风俗习惯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "automation",
+     "ipa": "/.ɒːtəˈmeiʃən/",
+     "pos": "n.",
+     "zh": "自动化，自动操作",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "piracy",
+     "ipa": "/ˈpaiərəsi/",
+     "pos": "n.",
+     "zh": "海盗行为，海上劫掠，剽窃，著作权侵害，非法翻印",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "crevice",
+     "ipa": "/ˈkrevis/",
+     "pos": "n.",
+     "zh": "裂缝",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "propriety",
+     "ipa": "/prəˈpraiəti/",
+     "pos": "n.",
+     "zh": "礼貌，规矩，适当",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "skating",
+     "ipa": "/ˈskeitiŋ/",
+     "pos": "n.",
+     "zh": "溜冰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "affix",
+     "ipa": "/əˈfiks/",
+     "pos": "vt.",
+     "zh": "使附于，署名，粘贴，盖印于",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perpendicular",
+     "ipa": "/.pəːpənˈdikjulə/",
+     "pos": "n.",
+     "zh": "垂直线，垂直的位置，直立(姿势)，刚正，垂规",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "regeneration",
+     "ipa": "/ri.dʒenəˈreiʃən/",
+     "pos": "n.",
+     "zh": "再生，重建",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stairs",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "楼梯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "paternity",
+     "ipa": "/pəˈtəːniti/",
+     "pos": "n.",
+     "zh": "父亲身份，父系血统，创始人(身份)，来源，出处",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dearth",
+     "ipa": "/dəːθ/",
+     "pos": "n.",
+     "zh": "缺乏，粮食不足，饥馑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "resonant",
+     "ipa": "/ˈrezənənt/",
+     "pos": "adj.",
+     "zh": "共鸣的，反响的，洪亮的，共振的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "septic",
+     "ipa": "/ˈseptik/",
+     "pos": "adj.",
+     "zh": "腐败的，脓毒性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ephemeral",
+     "ipa": "/iˈfemərəl/",
+     "pos": "adj.",
+     "zh": "朝生暮死的，短命的，短暂的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rainwater",
+     "ipa": "/ˈreinwɒːtə/",
+     "pos": "n.",
+     "zh": "雨水",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sustenance",
+     "ipa": "/ˈsʌstinəns/",
+     "pos": "n.",
+     "zh": "生活资料，生计，食物，支持",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g5",
+   "name": "第 5 组",
+   "words": [
+    {
+     "w": "predisposition",
+     "ipa": "/priː,dispəˈziʃən/",
+     "pos": "n.",
+     "zh": "爱好，素质，癖性，天性，倾向，易感受性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "saline",
+     "ipa": "/ˈseilain/",
+     "pos": "adj.",
+     "zh": "盐的，苦涩的，由碱金属(或含镁之盐类)组成的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "microcosm",
+     "ipa": "/ˈmaikrəukɒzm/",
+     "pos": "n.",
+     "zh": "小宇宙，小世界，人类",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "neurotic",
+     "ipa": "/njuˈrɒtik/",
+     "pos": "n.",
+     "zh": "神经症患者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "escalator",
+     "ipa": "/ˈeskəleitə/",
+     "pos": "n.",
+     "zh": "电动扶梯，自动扶梯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nuts",
+     "ipa": "/nʌts/",
+     "pos": "adj.",
+     "zh": "狂热的，发狂的，疯的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dingy",
+     "ipa": "/ˈdiŋdʒi/",
+     "pos": "adj.",
+     "zh": "暗淡的，昏暗的，邋遢的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "null",
+     "ipa": "/nʌl/",
+     "pos": "adj.",
+     "zh": "无效力的，无效的，无价值的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tranquility",
+     "ipa": "/.træŋˈkwiliti/",
+     "pos": "n.",
+     "zh": "宁静",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "scalpel",
+     "ipa": "/ˈskælpəl/",
+     "pos": "n.",
+     "zh": "解剖刀",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perplex",
+     "ipa": "/pəˈpleks/",
+     "pos": "vt.",
+     "zh": "使困惑，使复杂化，使为难",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "catering",
+     "ipa": "/ˈkeitəriŋ/",
+     "pos": "n.",
+     "zh": "给养；承办酒席；[医]提供饮食及服务",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "noxious",
+     "ipa": "/ˈnɒkʃəs/",
+     "pos": "adj.",
+     "zh": "有害的，有毒的，使道德败坏的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "indelible",
+     "ipa": "/inˈdelibl/",
+     "pos": "adj.",
+     "zh": "难以消除的，不能拭除的，难忘的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "urchin",
+     "ipa": "/ˈəːtʃin/",
+     "pos": "n.",
+     "zh": "淘气鬼，顽童",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "departmental",
+     "ipa": "/.diːpɑːtˈmentəl/",
+     "pos": "adj.",
+     "zh": "部门的，各部的，分科的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "circumference",
+     "ipa": "/səˈkʌmfərəns/",
+     "pos": "n.",
+     "zh": "圆周，周缘，胸围",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mirage",
+     "ipa": "/ˈmirɑːʒ/",
+     "pos": "n.",
+     "zh": "海市蜃楼，幻景，妄想",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pseudonym",
+     "ipa": "/ˈsjuːdənim/",
+     "pos": "n.",
+     "zh": "假名，笔名",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "engross",
+     "ipa": "/inˈgrəus/",
+     "pos": "vt.",
+     "zh": "用大字体书写，独占(市场)，使全神贯注",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "yoke",
+     "ipa": "/jəuk/",
+     "pos": "n.",
+     "zh": "轭，牛轭，束缚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "touchy",
+     "ipa": "/ˈtʌtʃi/",
+     "pos": "adj.",
+     "zh": "易怒的，难以取悦的，过于敏感的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "antecedent",
+     "ipa": "/.æntiˈsiːdnt/",
+     "pos": "n.",
+     "zh": "前情，先行词",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "amphibian",
+     "ipa": "/æmˈfibiən/",
+     "pos": "adj.",
+     "zh": "两栖类的，水陆两用的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "kindle",
+     "ipa": "/ˈkindl/",
+     "pos": "vt.",
+     "zh": "点燃，使着火，引起，照亮",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "exorbitant",
+     "ipa": "/igˈzɒːbitənt/",
+     "pos": "adj.",
+     "zh": "过度的，过高的，过分的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "decrepit",
+     "ipa": "/diˈkrepit/",
+     "pos": "adj.",
+     "zh": "衰老的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "repent",
+     "ipa": "/riˈpent/",
+     "pos": "vi.",
+     "zh": "后悔，懊悔，忏悔",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "amends",
+     "ipa": "/əˈmendz/",
+     "pos": "n.",
+     "zh": "赔偿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "congruent",
+     "ipa": "/ˈkɒŋgruənt/",
+     "pos": "adj.",
+     "zh": "适合的，一致的，合谐的，全等的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "glossary",
+     "ipa": "/ˈglɒsəri/",
+     "pos": "n.",
+     "zh": "专业词典，术语集，词表",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "secretion",
+     "ipa": "/siˈkriːʃən/",
+     "pos": "n.",
+     "zh": "分泌，分泌物，分泌液，隐蔽",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "longitude",
+     "ipa": "/ˈlɒndʒitjuːd/",
+     "pos": "n.",
+     "zh": "经度，经线",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "synonym",
+     "ipa": "/ˈsinənim/",
+     "pos": "n.",
+     "zh": "同义词",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "loath",
+     "ipa": "/ləuθ/",
+     "pos": "adj.",
+     "zh": "不情愿的，厌恶的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "everlasting",
+     "ipa": "/.evəˈlæstiŋ/",
+     "pos": "adj.",
+     "zh": "永恒的，持久的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nullify",
+     "ipa": "/ˈnʌlifai/",
+     "pos": "vt.",
+     "zh": "使无效，废弃，取消",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "penicillin",
+     "ipa": "/.peniˈsilin/",
+     "pos": "n.",
+     "zh": "盘尼西林，青霉素",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "incipient",
+     "ipa": "/inˈsipiənt/",
+     "pos": "adj.",
+     "zh": "起初的，发端的，初期的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "intelligible",
+     "ipa": "/inˈtelidʒəbl/",
+     "pos": "adj.",
+     "zh": "可理解的，易理解的，纯概念性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "loll",
+     "ipa": "/lɒl/",
+     "pos": "vi.",
+     "zh": "懒散地闲荡，垂下头，伸舌",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "delude",
+     "ipa": "/diˈluːd/",
+     "pos": "vt.",
+     "zh": "迷惑，蛊惑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "respiration",
+     "ipa": "/.respəˈreiʃən/",
+     "pos": "n.",
+     "zh": "呼吸，一口气，呼吸作用",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sectional",
+     "ipa": "/ˈsekʃənl/",
+     "pos": "adj.",
+     "zh": "部分的，部门的，节的，截面的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "misdeed",
+     "ipa": "/ˈmisˈdiːd/",
+     "pos": "n.",
+     "zh": "罪行，犯罪",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "profane",
+     "ipa": "/prəˈfein/",
+     "pos": "adj.",
+     "zh": "世俗的，不敬神的，亵渎的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "planetarium",
+     "ipa": "/.plæniˈtɛəriəm/",
+     "pos": "n.",
+     "zh": "行星仪，天文馆，天象图",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vex",
+     "ipa": "/veks/",
+     "pos": "vt.",
+     "zh": "使烦恼，使苦恼",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gist",
+     "ipa": "/dʒist/",
+     "pos": "n.",
+     "zh": "要点，要旨，依据",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "counterbalance",
+     "ipa": "/ˈkauntə.bæləns/",
+     "pos": "vt.",
+     "zh": "使平均，使平衡，使弥补",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g6",
+   "name": "第 6 组",
+   "words": [
+    {
+     "w": "mildew",
+     "ipa": "/ˈmildjuː/",
+     "pos": "n.",
+     "zh": "霉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tumult",
+     "ipa": "/ˈtjuːmʌlt/",
+     "pos": "n.",
+     "zh": "骚动，吵闹，混乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mannerism",
+     "ipa": "/ˈmænərizm/",
+     "pos": "n.",
+     "zh": "矫揉造作，习性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "supposition",
+     "ipa": "/.sʌpəˈziʃən/",
+     "pos": "n.",
+     "zh": "想像，推测，推想",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pimple",
+     "ipa": "/ˈpimpl/",
+     "pos": "n.",
+     "zh": "丘疹，小脓疱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "abrasion",
+     "ipa": "/əˈbreiʒən/",
+     "pos": "n.",
+     "zh": "磨擦，磨损，磨损处",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tertiary",
+     "ipa": "/ˈtəːʃiəri/",
+     "pos": "adj.",
+     "zh": "第三的，第三位的，第三产业的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "delectable",
+     "ipa": "/diˈlektəbl/",
+     "pos": "adj.",
+     "zh": "令人快乐的，美味的，使人愉快的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "negation",
+     "ipa": "/niˈgeiʃən/",
+     "pos": "n.",
+     "zh": "否定，反面，不存在",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "malleable",
+     "ipa": "/ˈmæliəbl/",
+     "pos": "adj.",
+     "zh": "有延展性的，可锻的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hitchhike",
+     "ipa": "/ˈhitʃhaik/",
+     "pos": "vi.",
+     "zh": "搭便车",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "nicety",
+     "ipa": "/ˈnaisəti/",
+     "pos": "n.",
+     "zh": "美好，准确，精密，拘泥细节，纤细",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "precipice",
+     "ipa": "/ˈpresipis/",
+     "pos": "n.",
+     "zh": "悬崖，绝壁，险境",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perceptible",
+     "ipa": "/pəˈseptibl/",
+     "pos": "adj.",
+     "zh": "可察觉的，能感觉得到的，看得见的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "quench",
+     "ipa": "/kwentʃ/",
+     "pos": "vt.",
+     "zh": "熄灭，结束，使冷却，将…淬火",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "laudable",
+     "ipa": "/ˈlɒːdəbl/",
+     "pos": "adj.",
+     "zh": "值得赞赏的，值得佩服的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "corrode",
+     "ipa": "/kəˈrəud/",
+     "pos": "vt.",
+     "zh": "使腐蚀，侵蚀，破坏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "alphabetical",
+     "ipa": "/.ælfəˈbetikəl/",
+     "pos": "adj.",
+     "zh": "依字母顺序的，字母的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "plankton",
+     "ipa": "/ˈplæŋktən/",
+     "pos": "n.",
+     "zh": "(总称)浮游生物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tyrannical",
+     "ipa": "/taiˈrænikl/",
+     "pos": "adj.",
+     "zh": "暴虐的，暴君的，残暴的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bookkeeper",
+     "ipa": "/ˈbukkiːpə/",
+     "pos": "n.",
+     "zh": "簿记员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "naught",
+     "ipa": "/nɒːt/",
+     "pos": "n.",
+     "zh": "无，零",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "chaste",
+     "ipa": "/tʃeist/",
+     "pos": "adj.",
+     "zh": "贞洁的，纯洁的，朴素的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "delirium",
+     "ipa": "/diˈliriəm/",
+     "pos": "n.",
+     "zh": "精神错乱，说谵语状态，狂热",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "abbreviation",
+     "ipa": "/ə.briːviˈeiʃən/",
+     "pos": "n.",
+     "zh": "缩写词，缩写，缩短，节略",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drudgery",
+     "ipa": "/ˈdrʌdʒəri/",
+     "pos": "n.",
+     "zh": "苦差事，苦工",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "platitude",
+     "ipa": "/ˈplætitjuːd/",
+     "pos": "n.",
+     "zh": "单调，平凡，陈腐，陈词滥调",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "granular",
+     "ipa": "/ˈgrænjulə/",
+     "pos": "adj.",
+     "zh": "颗粒的，粒状的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "appreciable",
+     "ipa": "/əˈpriːʃiəbl/",
+     "pos": "adj.",
+     "zh": "可感知的，可评估的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ungainly",
+     "ipa": "/.ʌnˈgeinli/",
+     "pos": "adj.",
+     "zh": "难看的，不优雅的，粗陋的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Oxford",
+     "ipa": "/ˈɒksfəd/",
+     "pos": "n.",
+     "zh": "牛津，牛津大学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "equivocal",
+     "ipa": "/iˈkwivəkl/",
+     "pos": "adj.",
+     "zh": "意义不明确的，模棱两可的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tweezers",
+     "ipa": "/ˈtwiːzəz/",
+     "pos": "n.",
+     "zh": "镊子",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "hubbub",
+     "ipa": "/ˈhʌbʌb/",
+     "pos": "n.",
+     "zh": "吵闹声，叫嚷声，混乱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sportswear",
+     "ipa": "/ˈspɒːtswɛə/",
+     "pos": "n.",
+     "zh": "运动装，休闲服",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perishable",
+     "ipa": "/ˈperiʃəbl/",
+     "pos": "adj.",
+     "zh": "易腐坏的，会枯萎的，易毁灭的，不经久的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "microbiology",
+     "ipa": "/maikrəjbaiˈɔlədʒi/",
+     "pos": "n.",
+     "zh": "微生物学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "excrement",
+     "ipa": "/ˈekskrimənt/",
+     "pos": "n.",
+     "zh": "排泄，大便",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "transgress",
+     "ipa": "/trænsˈgres/",
+     "pos": "vt.",
+     "zh": "违反，犯罪，侵犯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pliable",
+     "ipa": "/ˈplaiəbl/",
+     "pos": "adj.",
+     "zh": "易弯的，柔顺的，圆通的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flabby",
+     "ipa": "/ˈflæbi/",
+     "pos": "adj.",
+     "zh": "软弱的，没气力的，不稳的，松弛的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ruinous",
+     "ipa": "/ˈruinəs/",
+     "pos": "adj.",
+     "zh": "破坏性的，招致毁灭的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "kelp",
+     "ipa": "/kelp/",
+     "pos": "n.",
+     "zh": "海草，巨藻，海草灰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "forte",
+     "ipa": "/fɔːt/",
+     "pos": "n.",
+     "zh": "长处，特长，拿手，优点",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "superstructure",
+     "ipa": "/ˈsjuːpəstrʌktʃə/",
+     "pos": "n.",
+     "zh": "上部构造，上层建筑",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "manifold",
+     "ipa": "/ˈmænifəuld/",
+     "pos": "n.",
+     "zh": "复印本，多种",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gratuity",
+     "ipa": "/grəˈtjuːiti/",
+     "pos": "n.",
+     "zh": "小费，赠物，赏钱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dictation",
+     "ipa": "/dikˈteiʃən/",
+     "pos": "n.",
+     "zh": "听写，口述，命令",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "baldness",
+     "ipa": "/ˈbɒːldnis/",
+     "pos": "n.",
+     "zh": "光秃，率直，枯燥",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "reverent",
+     "ipa": "/ˈrevərənt/",
+     "pos": "adj.",
+     "zh": "尊敬的，虔诚的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g7",
+   "name": "第 7 组",
+   "words": [
+    {
+     "w": "oblong",
+     "ipa": "/ˈɒblɒŋ/",
+     "pos": "n.",
+     "zh": "长方形，长椭圆形",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perturb",
+     "ipa": "/pəˈtəːb/",
+     "pos": "vt.",
+     "zh": "扰乱，使混乱，使心绪不宁",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "combustible",
+     "ipa": "/kəmˈbʌstibl/",
+     "pos": "adj.",
+     "zh": "易燃的，燃烧性的，易动激情的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "leprosy",
+     "ipa": "/ˈleprəsi/",
+     "pos": "n.",
+     "zh": "麻疯病，腐败",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "meteoric",
+     "ipa": "/.miːtiˈɒrik/",
+     "pos": "adj.",
+     "zh": "流星的，疾速的，大气的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "horticulture",
+     "ipa": "/.hɒːtiˈkʌltʃə/",
+     "pos": "n.",
+     "zh": "园艺",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "trinity",
+     "ipa": "/ˈtriniti/",
+     "pos": "n.",
+     "zh": "三人一组，三个一组的东西，三位一体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "defile",
+     "ipa": "/diˈfail/",
+     "pos": "vt.",
+     "zh": "弄脏，污损，败坏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "reinforced",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "加强的；加固的；加筋的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "thesaurus",
+     "ipa": "/θiˈsɒːrəs/",
+     "pos": "n.",
+     "zh": "专类辞典，宝库，知识宝库，叙词表，主题词表",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "microfilm",
+     "ipa": "/ˈmaikrəufilm/",
+     "pos": "n.",
+     "zh": "缩影胶卷",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "timidity",
+     "ipa": "/tiˈmiditi/",
+     "pos": "n.",
+     "zh": "胆小，胆怯，羞怯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perspire",
+     "ipa": "/pəˈspaiə/",
+     "pos": "v.",
+     "zh": "出汗，流汗，分泌，渗出",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "headstrong",
+     "ipa": "/ˈhedstrɒŋ/",
+     "pos": "adj.",
+     "zh": "顽固的，刚愎的，任性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gaily",
+     "ipa": "/ˈgeili/",
+     "pos": "adv.",
+     "zh": "华丽地，欢乐地",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "eke",
+     "ipa": "/iːk/",
+     "pos": "vt.",
+     "zh": "补充，增加",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "practicable",
+     "ipa": "/ˈpræktikəbl/",
+     "pos": "adj.",
+     "zh": "可实行的，可做的，可用的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "meteorology",
+     "ipa": "/.miːtiəˈrɒlədʒi/",
+     "pos": "n.",
+     "zh": "气象学，气象状态",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "matrimony",
+     "ipa": "/ˈmætriməuni/",
+     "pos": "n.",
+     "zh": "结婚，婚姻生活，婚礼",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "navigable",
+     "ipa": "/ˈnævigəbl/",
+     "pos": "adj.",
+     "zh": "可航行的，可通船的，适于航行的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "magnanimous",
+     "ipa": "/mægˈnæniməs/",
+     "pos": "adj.",
+     "zh": "宽宏大量的，有雅量的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pollinate",
+     "ipa": "/ˈpɒlineit/",
+     "pos": "vt.",
+     "zh": "对…授粉",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "phonetic",
+     "ipa": "/fəuˈnetik/",
+     "pos": "adj.",
+     "zh": "语音的，语音学的，表示语音的，语音差异的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "perplexity",
+     "ipa": "/pəˈpleksiti/",
+     "pos": "n.",
+     "zh": "困惑，混乱状态，使人困惑的事物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enquiry",
+     "ipa": "/inˈkwaiəri/",
+     "pos": "n.",
+     "zh": "询问",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "melodious",
+     "ipa": "/məˈləudiəs/",
+     "pos": "adj.",
+     "zh": "旋律美妙的，旋律优美的，有乐曲的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "handball",
+     "ipa": "/ˈhændbɒːl/",
+     "pos": "n.",
+     "zh": "墙手球，墙手球运动",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "insolent",
+     "ipa": "/ˈinsələnt/",
+     "pos": "n.",
+     "zh": "侮慢无礼的人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wreathe",
+     "ipa": "/riːð/",
+     "pos": "vt.",
+     "zh": "作成花圈，环绕，盘绕，使笼罩",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "decimal",
+     "ipa": "/ˈdesiməl/",
+     "pos": "adj.",
+     "zh": "十进位的，小数的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "postscript",
+     "ipa": "/ˈpəustskript/",
+     "pos": "n.",
+     "zh": "附言",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fallible",
+     "ipa": "/ˈfæləbl/",
+     "pos": "adj.",
+     "zh": "易错的，可能犯错的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "granary",
+     "ipa": "/ˈgrænəri/",
+     "pos": "n.",
+     "zh": "谷仓，谷物仓，主要来源，主要贮藏所",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vanquish",
+     "ipa": "/ˈvæŋkwiʃ/",
+     "pos": "vt.",
+     "zh": "打败，征服，克服",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drowsiness",
+     "ipa": "/ˈdrauzinis/",
+     "pos": "n.",
+     "zh": "睡意",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "natal",
+     "ipa": "/ˈneitl/",
+     "pos": "adj.",
+     "zh": "出生的，诞生的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "insipid",
+     "ipa": "/inˈsipid/",
+     "pos": "adj.",
+     "zh": "乏味的，清淡的，难吃的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "photojournalism",
+     "ipa": "/,fəutəuˈdʒəːnəlizm/",
+     "pos": "n.",
+     "zh": "摄影新闻工作，摄影报道",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "plagiarize",
+     "ipa": "/ˈpleidʒiəraiz/",
+     "pos": "v.",
+     "zh": "剽窃，抄袭",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "eddy",
+     "ipa": "/ˈedi/",
+     "pos": "n.",
+     "zh": "逆流，漩涡",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "humdrum",
+     "ipa": "/ˈhʌmdrʌm/",
+     "pos": "adj.",
+     "zh": "平凡的，单调的，令人厌烦的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "apostrophe",
+     "ipa": "/əˈpɒstrəfi/",
+     "pos": "n.",
+     "zh": "撇号，呼语法",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "notary",
+     "ipa": "/ˈnəutəri/",
+     "pos": "n.",
+     "zh": "公证人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sundial",
+     "ipa": "/ˈsʌndaiəl/",
+     "pos": "n.",
+     "zh": "日规，日晷",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "toddle",
+     "ipa": "/ˈtɒdl/",
+     "pos": "vi.",
+     "zh": "东倒西歪地走，蹒跚学步，溜达",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tropic",
+     "ipa": "/ˈtrɒpik/",
+     "pos": "n.",
+     "zh": "回归线",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "periscope",
+     "ipa": "/ˈperiskəup/",
+     "pos": "n.",
+     "zh": "潜望镜(镜头)",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pacific",
+     "ipa": "/pəˈsifik/",
+     "pos": "n.",
+     "zh": "太平洋",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "abridge",
+     "ipa": "/əˈbridʒ/",
+     "pos": "vt.",
+     "zh": "缩短，删节，减少，剥夺",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fatuous",
+     "ipa": "/ˈfætjuəs/",
+     "pos": "adj.",
+     "zh": "发呆的，愚笨的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g8",
+   "name": "第 8 组",
+   "words": [
+    {
+     "w": "tenable",
+     "ipa": "/ˈtenəbl/",
+     "pos": "adj.",
+     "zh": "可守的，站得住(脚)的，合理的，成立的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "profuse",
+     "ipa": "/prəˈfjuːs/",
+     "pos": "adj.",
+     "zh": "很多的，丰富的，浪费的，慷慨的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "truant",
+     "ipa": "/ˈtruːənt/",
+     "pos": "n.",
+     "zh": "懒惰的人，玩忽职守者，旷课者",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "existent",
+     "ipa": "/igˈzistənt/",
+     "pos": "adj.",
+     "zh": "存在的，生存的，现存的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "entreat",
+     "ipa": "/inˈtriːt/",
+     "pos": "v.",
+     "zh": "恳求，乞求",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "preposition",
+     "ipa": "/.prepəˈziʃən/",
+     "pos": "n.",
+     "zh": "前置词，介词",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flyover",
+     "ipa": "/ˈflaiəjvə(r)/",
+     "pos": "n.",
+     "zh": "立交桥，天桥，立交马路",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "politic",
+     "ipa": "/ˈpɒlitik/",
+     "pos": "adj.",
+     "zh": "精明的，明智的，策略的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "filmed",
+     "ipa": null,
+     "pos": "v.",
+     "zh": "拍摄（复以薄膜）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "distend",
+     "ipa": "/diˈstend/",
+     "pos": "v.",
+     "zh": "(使)膨胀，(使)扩张",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enquire",
+     "ipa": "/inˈkwaiə/",
+     "pos": "v.",
+     "zh": "询问",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "seclude",
+     "ipa": "/siˈkluːd/",
+     "pos": "vt.",
+     "zh": "使隔离，使孤立，隔开",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bewilder",
+     "ipa": "/biˈwildə/",
+     "pos": "vt.",
+     "zh": "使迷惑，使不知所措",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "soundproof",
+     "ipa": "/ˈsaundpruːf/",
+     "pos": "adj.",
+     "zh": "隔音的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "overwrought",
+     "ipa": "/ˈəuvəˈrɔːt/",
+     "pos": "adj.",
+     "zh": "过分劳累的，过度紧张的，神经质的，过度兴奋的，过分推敲的，不自然的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ostentation",
+     "ipa": "/.ɒstenˈteiʃən/",
+     "pos": "n.",
+     "zh": "虚饰，虚有其表，卖弄",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drowse",
+     "ipa": "/drauz/",
+     "pos": "n.",
+     "zh": "瞌睡",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "manacle",
+     "ipa": "/ˈmænəkl/",
+     "pos": "n.",
+     "zh": "手铐，束缚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "coeducation",
+     "ipa": "/.kəuedjuˈkeiʃən/",
+     "pos": "n.",
+     "zh": "男女同校",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "loth",
+     "ipa": "/ləuθ/",
+     "pos": "adj.",
+     "zh": "不愿意的，厌恶的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fetter",
+     "ipa": "/ˈfetə/",
+     "pos": "n.",
+     "zh": "脚镣，羁绊，束缚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "reflectance",
+     "ipa": "/riˈflektəns/",
+     "pos": "n.",
+     "zh": "反射比",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "gaol",
+     "ipa": "/dʒeil/",
+     "pos": "n.",
+     "zh": "监禁，监狱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "antonym",
+     "ipa": "/ˈæntəunim/",
+     "pos": "n.",
+     "zh": "反义词",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bitumen",
+     "ipa": "/biˈtjumin/",
+     "pos": "n.",
+     "zh": "沥青",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "misconceive",
+     "ipa": "/.miskənˈsiːv/",
+     "pos": "v.",
+     "zh": "误解",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "maltreat",
+     "ipa": "/mælˈtriːt/",
+     "pos": "vt.",
+     "zh": "虐待，滥用",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "protract",
+     "ipa": "/prəuˈtrækt/",
+     "pos": "vt.",
+     "zh": "延长，拖延，伸出，绘制",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "palpitate",
+     "ipa": "/ˈpælpiteit/",
+     "pos": "vi.",
+     "zh": "悸动，心跳，发抖",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "transfuse",
+     "ipa": "/trænsˈfjuːz/",
+     "pos": "vt.",
+     "zh": "输血，充满",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "helpline",
+     "ipa": "/ˈhelplaɪn/",
+     "pos": "n.",
+     "zh": "热线服务电话",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "superintend",
+     "ipa": "/.sjuːpərinˈtend/",
+     "pos": "v.",
+     "zh": "指挥，管理，监督",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "despatch",
+     "ipa": "/diˈspætʃ/",
+     "pos": "v.",
+     "zh": "派遣",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mischance",
+     "ipa": "/.misˈtʃæns/",
+     "pos": "n.",
+     "zh": "不幸，灾难",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cramming",
+     "ipa": "/ˈkræmiŋ/",
+     "pos": "n.",
+     "zh": "塞满，挤满，填鸭式教学法",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "inapt",
+     "ipa": "/inˈæpt/",
+     "pos": "adj.",
+     "zh": "不适当的，不熟练的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "account for",
+     "ipa": null,
+     "pos": null,
+     "zh": "对…负有责任；对…做出解释；说明……的原因；导致；（比例）占",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "accountants",
+     "ipa": null,
+     "pos": null,
+     "zh": "会计人员",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "activities",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "（activity复数形式）活动；活动区；活动性",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "affairs",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "事务，事宜；风流韵事",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Africa",
+     "ipa": "/ˈæfrikə/",
+     "pos": "n.",
+     "zh": "非洲",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Alaska",
+     "ipa": "/əˈlæskə/",
+     "pos": "n.",
+     "zh": "阿拉斯加州",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "America",
+     "ipa": "/əˈmerikə/",
+     "pos": "n.",
+     "zh": "美洲，美国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "antibiotics",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "抗生学；抗生素",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "approaches",
+     "ipa": null,
+     "pos": null,
+     "zh": "处理",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "archives",
+     "ipa": "/ˈɑːkaivz/",
+     "pos": "n.",
+     "zh": "档案，档案室",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Asia",
+     "ipa": "/ˈeiʒə/",
+     "pos": "n.",
+     "zh": "亚洲",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Athens",
+     "ipa": "/ˈæθəns/",
+     "pos": "n.",
+     "zh": "雅典(希腊首都)",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Australia",
+     "ipa": "/ɒˈstreiljə/",
+     "pos": "n.",
+     "zh": "澳洲，澳大利亚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bacterium",
+     "ipa": "/bækˈtiəriəm/",
+     "pos": "n.",
+     "zh": "细菌",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g9",
+   "name": "第 9 组",
+   "words": [
+    {
+     "w": "bands",
+     "ipa": "/ˈbændz/",
+     "pos": "n.",
+     "zh": "法官；乐队",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "beds",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "床上用品，床组（bed复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bedsit",
+     "ipa": "/bedˈsɪt/",
+     "pos": "n.",
+     "zh": "卧室兼起居室",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Berlin",
+     "ipa": "/bəːˈlin/",
+     "pos": "n.",
+     "zh": "柏林，(软质)柏林毛线",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Birmingham",
+     "ipa": "/ˈbəːmiŋəm/",
+     "pos": "n.",
+     "zh": "伯明翰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bones",
+     "ipa": "/bəunz/",
+     "pos": "n.",
+     "zh": "骨骼，尸体",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "booklist",
+     "ipa": "/ˈbuklist/",
+     "pos": null,
+     "zh": "(某个题目或学科的)推荐书目，书单",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bowls",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "滚木球戏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "bring about",
+     "ipa": null,
+     "pos": null,
+     "zh": "带来，使掉头",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Bristol",
+     "ipa": "/ˈbristəl/",
+     "pos": "n.",
+     "zh": "布里斯托尔(英国西部港口)",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Britain",
+     "ipa": "/ˈbritən/",
+     "pos": "n.",
+     "zh": "英国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "brothers",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "哥们儿，兄弟",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Cambridge",
+     "ipa": "/ˈkeimbridʒ/",
+     "pos": "n.",
+     "zh": "剑桥",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "candles",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "蜡烛，烛台（candle复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "carcase",
+     "ipa": "/ˈkɑːkəs/",
+     "pos": "n.",
+     "zh": "尸体，架子",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cards",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "(playing cards)(正式)一副纸牌，一副扑克牌，纸牌游戏，打扑克",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "causes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "原因",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "charges",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "费用；手续费；运费",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "cheaper",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "成本更低，比较便宜的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "children",
+     "ipa": "/ˈtʃildrən/",
+     "pos": "pl.",
+     "zh": "孩子，孩子们",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "co-operation",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "合作",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "colleges",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "专科学院（college复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "conditions",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "形势，情况，环境",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "contents",
+     "ipa": "/ˈkɒntents/",
+     "pos": "n.",
+     "zh": "目录",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "damages",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "赔偿金",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "diplomas",
+     "ipa": null,
+     "pos": "pl.",
+     "zh": "公文，文书，执照，特许证，毕业文凭，学位证书，奖状",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "dishes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "餐具",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drinks",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "饮料，饮品；喝酒（drink复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drop-off",
+     "ipa": "/ˈdrɔpɔf/",
+     "pos": "n.",
+     "zh": "下降，减少",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "drugs",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "毒品，药物",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "effects",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "财物，个人财产",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "elements",
+     "ipa": "/ˈelimənts/",
+     "pos": "n.",
+     "zh": "原理，基础",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "email",
+     "ipa": "/ˈiːˈmeil/",
+     "pos": "n.",
+     "zh": "电子信函",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "emergencies",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "紧急需要；紧急事件",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "England",
+     "ipa": "/ˈiŋglənd/",
+     "pos": "n.",
+     "zh": "英格兰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "enrolment",
+     "ipa": "/inˈrəulmənt/",
+     "pos": "n.",
+     "zh": "登记，注册，入伍，入学，入会，注册人数，入学人数",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Europe",
+     "ipa": "/ˈjuərəp/",
+     "pos": "n.",
+     "zh": "欧洲",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "exhilarate",
+     "ipa": "/igˈziləreit/",
+     "pos": "vt.",
+     "zh": "使高兴，使愉快，鼓励",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "expenses",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "开支，经费，费用",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "facilities",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "工具，设施，设备",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "factories",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "工厂，车厂（factory复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fahrenheit",
+     "ipa": "/ˈfærənhait/",
+     "pos": "adj.",
+     "zh": "华氏温度计的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "feet",
+     "ipa": "/fiːt/",
+     "pos": "pl.",
+     "zh": "脚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "fingers",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "梳状剔除器；手指头，指头（finger复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "first-aid",
+     "ipa": "/ˈf\\\\\\\\ːstˈeid/",
+     "pos": "adj.",
+     "zh": "急救的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "flourishment",
+     "ipa": "/ˈflʌriʃmənt/",
+     "pos": "n.",
+     "zh": "繁荣",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "forbes",
+     "ipa": "/ˈfɔːbz, ˈfɔːbis/",
+     "pos": "n.",
+     "zh": "福布斯（美国出版及媒体集团）；福布斯（美国著名财经杂志）；福布斯（姓氏）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "France",
+     "ipa": "/frɑːns/",
+     "pos": "n.",
+     "zh": "法国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Germany",
+     "ipa": "/ˈdʒəːməni/",
+     "pos": "n.",
+     "zh": "德国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "goals",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "目标，目的；进球，射中次数",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g10",
+   "name": "第 10 组",
+   "words": [
+    {
+     "w": "Greece",
+     "ipa": "/griːs/",
+     "pos": "n.",
+     "zh": "希腊",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "healthcare",
+     "ipa": "/ˈhelθkeə/",
+     "pos": "n.",
+     "zh": "医疗保健；卫生保健；健康护理，健康服务",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "ideas",
+     "ipa": null,
+     "pos": "abbr.",
+     "zh": "工业设计优秀奖",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "institutions",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "体系",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "invigilate",
+     "ipa": "/inˈvidʒileit/",
+     "pos": "vi.",
+     "zh": "看守，监考",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Italy",
+     "ipa": "/ˈitəli/",
+     "pos": "n.",
+     "zh": "意大利",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "keywords",
+     "ipa": "/ˈkiːwəːdz/",
+     "pos": "n.",
+     "zh": "关键字",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "lakes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "色淀；湖泊，湖畔",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "levels",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "色阶调整；控制色阶；水平，标准（level复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "London",
+     "ipa": "/ˈlʌndən/",
+     "pos": "n.",
+     "zh": "伦敦",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mackintosh",
+     "ipa": "/ˈmækintɒʃ/",
+     "pos": "n.",
+     "zh": "马金托什防水布，马金托什雨衣",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Malaysia",
+     "ipa": "/məˈleiziə/",
+     "pos": "n.",
+     "zh": "马来西亚",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "marks",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "标记，记号；唛头，分数；台面标志",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Melbourne",
+     "ipa": "/ˈmelbən/",
+     "pos": "n.",
+     "zh": "墨尔本",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "memorise",
+     "ipa": "/ˈmeməraiz/",
+     "pos": "vt.",
+     "zh": "记住，熟记，记录，存储",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "midmorning",
+     "ipa": "/ˈmidˈmɒːniŋ/",
+     "pos": "n.",
+     "zh": "上午十时左右",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mills",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "米尔斯（人名）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "minutes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "会议记录",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "movies",
+     "ipa": "/ˈmuːvis/",
+     "pos": "n.",
+     "zh": "电影",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "mucous",
+     "ipa": "/ˈmjuːkəs/",
+     "pos": "adj.",
+     "zh": "粘液的，粘的，粘液性的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "non-drinker",
+     "ipa": "/ˈnɒndrˈɪŋkər/",
+     "pos": "n.",
+     "zh": "不喝酒的人，戒酒的人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "notes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "票据；注释，说明（note复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "open-book",
+     "ipa": null,
+     "pos": "adj.",
+     "zh": "开卷的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "papers",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "文件，官方文件",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pence",
+     "ipa": "/pens/",
+     "pos": "pl.",
+     "zh": "(非正式)copper便士，(美)分，分币",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pennies",
+     "ipa": null,
+     "pos": "pl.",
+     "zh": "(非正式)copper便士，(美)分，分币",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "PETS",
+     "ipa": "/pets/",
+     "pos": "abbr.",
+     "zh": "公共英语等级考试（Public English Tset System）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pictures",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "电影院",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "postcode",
+     "ipa": "/ˈpəustkəud/",
+     "pos": "n.",
+     "zh": "邮政编码",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "pounds",
+     "ipa": "/paundz/",
+     "pos": "n.",
+     "zh": "磅，英镑；重击（pound复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "psycholinguistics",
+     "ipa": "/,saikəuliŋˈ^wistiks/",
+     "pos": "n.",
+     "zh": "语言心理学",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "refreshments",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "茶点；点心；小吃",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "relations",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "交往，关系，事务",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "risks",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "风险，危险（risk复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rivers",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "里弗斯（人名）；河流州（尼日利亚州名）；河水钻",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "rocks",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "岩石，岩礁；岩石礁石（rock复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Russia",
+     "ipa": "/ˈrʌʃə/",
+     "pos": "n.",
+     "zh": "俄国，俄罗斯",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Scotland",
+     "ipa": "/ˈskɒtlənd/",
+     "pos": "n.",
+     "zh": "苏格兰",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "scotsman",
+     "ipa": "/ˈskɔtsmən/",
+     "pos": "n.",
+     "zh": "苏格兰人",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "self-defense",
+     "ipa": "/selfdiˈfens/",
+     "pos": "n.",
+     "zh": "自卫，自卫术，自卫权",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "self-discipline",
+     "ipa": "/ˈselfˈdisiplin/",
+     "pos": "n.",
+     "zh": "自我训练，自我修养，自律",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sizes",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "象素显示尺寸，尺寸（size复数形式）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "Spain",
+     "ipa": "/spein/",
+     "pos": "n.",
+     "zh": "西班牙",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sports",
+     "ipa": "/spɔːts/",
+     "pos": "n.",
+     "zh": "(英)运动会，运动的，适用于运动的，运动会的，与运动会有关的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "States",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "美国",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "steps",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "（楼外的）台阶；步伐；步幅；步数",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "stores",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "(英)百货商店",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "subtitles",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "说明字幕，印在外国影片上的对白翻译字幕，译文对白字幕",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "suggestions",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "民众意见箱；员工意见箱",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "sydney",
+     "ipa": "/ˈsidni/",
+     "pos": "n.",
+     "zh": "悉尼（澳大利亚港市）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  },
+  {
+   "id": "c11-g11",
+   "name": "第 11 组",
+   "words": [
+    {
+     "w": "teeth",
+     "ipa": "/tiːθ/",
+     "pos": "pl.",
+     "zh": "牙齿",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "tours",
+     "ipa": "/tuəz/",
+     "pos": "n.",
+     "zh": "图尔斯（姓氏）；图尔市（法国城市名）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "trends",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "动态，趋势",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "unsocial",
+     "ipa": "/ˈʌnˈsəuʃəl/",
+     "pos": "adj.",
+     "zh": "非社会的，厌恶社交的，不喜交际的，孤僻的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "up-to-date",
+     "ipa": "/ˈʌptəˈdeit/",
+     "pos": "adj.",
+     "zh": "直到现在的，最近的，现代化的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "vacancies",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "空缺额；缺位（vacancy复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "versed",
+     "ipa": "/vəːst/",
+     "pos": "adj.",
+     "zh": "熟练的，精通的",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "visitors",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "访问者，游客（visitor 复数）",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "waggon",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "运货车，四轮运货马车，(英)铁路货车，流动服务车，小型客车，囚车，童车",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "water-clock",
+     "ipa": "/ˈwɔːtərklˈɒk/",
+     "pos": "n.",
+     "zh": "水钟，滴漏",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "water-skiing",
+     "ipa": null,
+     "pos": "n.",
+     "zh": "滑水",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "weeds",
+     "ipa": "/wiːdz/",
+     "pos": "n.",
+     "zh": "丧服",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "weekdays",
+     "ipa": null,
+     "pos": "adv.",
+     "zh": "在每个周日，在平时每天",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "weekends",
+     "ipa": null,
+     "pos": "adv.",
+     "zh": "在每周末",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "wollongong",
+     "ipa": "/ˈwjlən^ɔŋ, -^ɔːŋ/",
+     "pos": null,
+     "zh": "伍伦贡[澳大利亚东南部港市]",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "woods",
+     "ipa": "/wjdz/",
+     "pos": "n.",
+     "zh": "森林，树林",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    },
+    {
+     "w": "york",
+     "ipa": "/jɔːk/",
+     "pos": "n.",
+     "zh": "约克郡；约克王朝",
+     "ex": null,
+     "exZh": null,
+     "syn": []
+    }
+   ]
+  }
+ ]
+}
